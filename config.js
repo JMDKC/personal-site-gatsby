@@ -27,12 +27,9 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I am a London-based product manager.',
     contacts: {
-      email: '#',
-      telegram: '#',
+      email: 'askme@ontwitter.com',
       twitter: 'jmdkc',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      github: 'jmdkc',
     }
   }
 };
