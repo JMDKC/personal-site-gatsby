@@ -1,5 +1,5 @@
 ---
-title: Feeling the Pinch: An update on the UK consumer
+title: "Feeling the Pinch: An update on the UK consumer"
 date: "2012-01-02"
 template: "post"
 draft: false
