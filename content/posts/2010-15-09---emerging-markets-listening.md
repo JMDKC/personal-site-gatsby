@@ -1,5 +1,5 @@
 ---
-title: Emerging markets and listening brands: A perfect match?
+title: "Emerging markets and listening brands: A perfect match?"
 date: "2010-09-15"
 template: "post"
 draft: false
