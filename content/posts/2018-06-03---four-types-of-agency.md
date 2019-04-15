@@ -1,5 +1,5 @@
 ---
-title: The Four Types of Agency-Client Relationships
+title: The four types of agency-client relationships
 date: "2018-03-06"
 template: "post"
 draft: false

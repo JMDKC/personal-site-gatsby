@@ -1,5 +1,5 @@
 ---
-title: 5 Things I’ve Learned About the Future of Strategy
+title: 5 things I’ve learned about the Future of Strategy
 date: "2017-08-25"
 template: "post"
 draft: false
