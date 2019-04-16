@@ -15,7 +15,7 @@ Facebook has had one of the roughest months in its short history since becoming 
 
 But having taken a quick breather, Adams offered the audience a nice one-liner on his return to the stage – "That was the most anti-social thing I've ever done" – and went on to deliver a strong case for Facebook's massive importance to marketers. After all, despite the negative headlines, the firm remains a global company with near-unparalleled reach, and is inexorably closing in on signing up its 1 billionth user. It's also worth noting that the Facebook seminar was by far the most popular of the Festival so far among delegates, with queues to enter the conference room beginning to form half an hour before time...
 
-![](ad-tips-facebook-200612/ad-tips-facebook-1.jpg)
+![](/media/ad-tips-facebook-1.jpg)
 
 …and latecomers and double-bookers – including me – eventually relegated to watching a live stream of the speech in a distant annexe of the Palais (the main streaming room also being full).
 
