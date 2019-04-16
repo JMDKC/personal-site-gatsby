@@ -18,8 +18,12 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact',
+      label: 'Projects',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Curriculum Vitae',
+      path: '/media/Joseph_Clift_CV_March_2018.pdf'
     }
   ],
   author: {
