@@ -8,7 +8,7 @@ category: "Advertising"
 tags:
   - "Advertising"
   - "Business"
-description: "The Olympics are a prime cause of the industry's "quadrennial effect" – the lift given to global adspend every four years due to the happy convergence of major summer sporting events and the US presidential election."
+description: "The Olympics are a prime cause of the industry's quadrennial effect – the lift given to global adspend every four years due to the happy convergence of major summer sporting events and the US presidential election."
 ---
 
 Many attendees of the annual [Cannes Lions International Festival of Creativity](http://www.canneslions.com/) pride themselves on being forward thinking. But at this year's event, a lot of minds will be focused on one future date in particular: 27 July 2012, when the summer Olympic Games begin in London. If you want to know why this is, follow the money.
