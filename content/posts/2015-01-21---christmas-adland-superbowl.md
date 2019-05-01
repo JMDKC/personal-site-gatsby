@@ -1,6 +1,6 @@
 ---
 title: "Christmas: British Adland’s Super Bowl"
-date: "2015-01-21
+date: "2015-01-21"
 template: "post"
 draft: false
 slug: "/writing/christmas-adland-superbowl"
