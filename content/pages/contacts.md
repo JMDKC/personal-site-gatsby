@@ -5,7 +5,6 @@ template: "page"
 
 ###Future of Strategy
 
-
 A global research project that took about a year, alongside my day-to-day PM tasks. The ‘Future of Strategy’ report was also based on a big user need: WARC’s hardcore fans, and paying users, tend to be planners at ad and media agencies. But within the marketing industry as a whole, the planning discipline is little-understood and often overlooked.
 
 So I built a survey where we asked planners the same questions and aggregated the results. But I didn’t want to go too “quant” by sending an impersonal online form with some multiple choice questions – instead, I needed real, in-depth personal insights to go along with the data.
