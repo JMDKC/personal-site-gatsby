@@ -1,6 +1,7 @@
 ---
 title: "About me"
 template: "page"
+slug: "/about"
 ---
 
 I’m a product manager at WARC, the world’s largest advertising information service.

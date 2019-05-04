@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 template: "page"
+slug: "/projects"
 ---
 
 ###Future of Strategy
