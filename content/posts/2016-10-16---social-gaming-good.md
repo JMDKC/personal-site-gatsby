@@ -1,5 +1,5 @@
 ---
-title: "Are social media and gaming good for us?"
+title: "Are social media and gaming good for us?""
 date: "2016-10-16”
 template: "post"
 draft: false
