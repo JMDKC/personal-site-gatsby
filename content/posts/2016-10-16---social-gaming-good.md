@@ -1,5 +1,5 @@
 ---
-title: "Are social media and gaming good for us?""
+title: "Are social media and gaming good for us?"
 date: "2016-10-16”
 template: "post"
 draft: false
@@ -8,7 +8,7 @@ category: "Tech"
 tags:
   - "Tech"
   - "Culture"
-description: "It’s a question we’ve all asked ourselves as we scroll through yet another smug status update or toss our phone across the room because we didn't match a row of colourful candy: is all this digital distraction actually good for us?"
+description: "It’s a question we’ve all asked ourselves as we scroll through yet another smug status update or toss our phone across the room because we didn't match a row of colourful candy. Is all this digital distraction actually good for us?"
 ---
 
  One thing’s for sure: digital media has been blamed for a lot of society’s ills. And that’s despite its massive - and increasing - global popularity, with one piece of research showing that we touch our phones [an average of 2,500 times daily](http://www.deloitte.co.uk/mobileuk/), with [80% of our time spent on just five apps](http://marketingland.com/report-mobile-users-spend-80-percent-time-just-five-apps-116858).
