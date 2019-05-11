@@ -1,12 +1,12 @@
 ---
 title: "Are social media and gaming good for us?"
-date: "2016-10-16”
+date: "2016-10-16"
 template: "post"
 draft: false
-slug: “/writing/social-gaming-good”
-category: "Tech"
+slug: "/writing/social-gaming-good"
+category: "Technology"
 tags:
-  - "Tech"
+  - "Technology"
   - "Culture"
 description: "It’s a question we’ve all asked ourselves as we scroll through yet another smug status update or toss our phone across the room because we didn't match a row of colourful candy. Is all this digital distraction actually good for us?"
 ---
