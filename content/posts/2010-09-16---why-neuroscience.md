@@ -1,5 +1,5 @@
 ---
-title: "Why neuroscience?"
+title: Why neuroscience?
 date: "2010-09-16"
 template: "post"
 draft: false
