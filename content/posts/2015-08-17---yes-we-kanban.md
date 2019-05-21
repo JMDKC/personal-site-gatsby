@@ -4,8 +4,9 @@ date: "2015-08-17"
 template: "post"
 draft: false
 slug: "/writing/yes-we-kanban"
-category: "Business"
+category: "Product Management"
 tags:
+  - "Product Management"
   - "Business"
   - "Technology"
 description: "Kanban is one of the most talked-about, but least-understood, ways we have of managing digital product development."
