@@ -7,7 +7,7 @@ slug: "/writing/the-white-bottle"
 category: "Art"
 tags:
   - "Art"
-description: "Taken together, the work and the life tell a story of a unknowable, remote, lonely artist – separate from the world. Hidden in his apartment, producing masterpieces. But the work doesn’t really tell the full story of the life; and the life doesn’t explain the work."
+description: "Giorgio Morandi's paintings don’t really tell the full story of his life; and his life doesn’t explain his paintings."
 ---
 
 The painter Giorgio Morandi lived at 36 via Fondazza, in a quiet corner of Bologna. Morandi, a painter of calming yet weirdly intense still lives, had a reputation for obscurity, separation, reclusiveness. But the address is world famous: so much so that it’s been converted into a museum, open to the public for a couple of hours a week.

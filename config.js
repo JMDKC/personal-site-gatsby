@@ -7,7 +7,7 @@ module.exports = {
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 25,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-105597052-1',
   menu: [
     {
       label: 'Writing',
@@ -31,7 +31,7 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'I am a London-based product manager.',
     contacts: {
-      email: 'askme@ontwitter.com',
+      email: 'inactionman82@gmail.com',
       twitter: 'jmdkc',
       github: 'jmdkc',
     }
