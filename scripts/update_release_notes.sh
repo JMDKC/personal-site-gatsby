@@ -45,3 +45,4 @@ curl --fail \
      --request PATCH \
      --data "$PAYLOAD" \
      "https://api.github.com/repos/${REPO}/releases/${TAG_ID}"
+     
