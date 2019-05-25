@@ -123,12 +123,10 @@ module.exports = {
       }
     },
     {
-      resolve: 'gatsby-plugin-google-gtag',
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingIds: [siteConfig.googleAnalyticsId],
-        pluginConfig: {
-          head: true,
-        },
+        trackingId: "UA-105597052-1",
+        head: true,
       },
     },
     // add in sitemap plugin here, previously it was causing the build to fail
