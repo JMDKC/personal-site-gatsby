@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://admiring-franklin-2baf92.netlify.com/',
   title: 'Joseph Clift',
   subtitle: 'London-based product manager',
-  copyright: '© All rights reserved.',
+  copyright: '© All rights reserved',
   disqusShortname: '',
   postsPerPage: 25,
   googleAnalyticsId: 'UA-105597052-1',
