@@ -129,7 +129,7 @@ module.exports = {
         head: true,
       },
     },
-    `gatsby-plugin-sitemap`,
+    //add sitemap plugin here
     {
       resolve: 'gatsby-plugin-manifest',
       options: {
