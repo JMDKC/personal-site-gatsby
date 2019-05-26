@@ -129,7 +129,7 @@ module.exports = {
         head: true,
       },
     },
-    // add in sitemap plugin here, previously it was causing the build to fail
+    `gatsby-plugin-sitemap`,
     {
       resolve: 'gatsby-plugin-manifest',
       options: {

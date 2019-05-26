@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://admiring-franklin-2baf92.netlify.com/',
+  url: 'https://josephclift.com',
   title: 'Joseph Clift',
   subtitle: 'London-based product manager',
   copyright: '© All rights reserved',
