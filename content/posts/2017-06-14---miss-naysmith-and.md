@@ -15,7 +15,7 @@ The homeless have always featured in the stories Londoners tell. From doomed Jo 
 
 Most recently, Alan Bennett’s 1999 play The Lady In The Van, which told the story of the playwright’s 15-year friendship with a homeless woman – a Miss Shepherd – who moved into a van in his Primrose Hill garden, has been adapted for a “[cosily enjoyable](http://www.telegraph.co.uk/film/the-lady-in-the-van/review/)” movie released this winter.
 
-![](/media/miss-naysmith-and-1.png)
+![](/media/miss-naysmith-and-1.jpg)
 *Miss Naysmith*
 
 Further to the west, Miss Shepherd had a counterpart with a less cosy story. Anne Naysmith lived in Chiswick, an affluent suburb. Anne was well-educated, solvent and hardcore homeless. For 25 years, she lived in a car opposite her former flat. Then, for the final 13 years of her life, she slept rough and maintained a garden at the edge of a nearby car park.
@@ -88,7 +88,7 @@ Now living in the Ford Consul, Anne Naysmith began to build a daily routine. Tri
 
 **R:** The car was beautifully and carefully painted with flowers, curling tendrils, birds, butterflies and poems. A wonderful hippy car.
 
-![](/media/miss-naysmith-and-4.png)
+![](/media/miss-naysmith-and-4.jpg)
 *The Ford Consul*
 
 **M:** Once she was in the car, her clothes changed almost immediately. The leather shoes were gone and she started wearing layers of plastic bags on her feet. The bag was starting to be covered in slogans. She was strongly ‘eco’ in outlook and you could see that on the bag.
@@ -115,7 +115,7 @@ Now living in the Ford Consul, Anne Naysmith began to build a daily routine. Tri
 
 **G:** She wanted everyone to stick to the rules. I remember one very hot day in the reference library. Someone there had asked to drink some water, but she didn’t like it because it wasn’t allowed. So she belted the librarian with her umbrella, so hard she screamed like she was being murdered!
 
-![](/media/miss-naysmith-and-5.png)
+![](/media/miss-naysmith-and-5.jpg)
 *Off the High Road*
 
 The local authorities tried over the years to find a solution. She was offered a number of flats in Chiswick. She responded that if she could not move back into her old flat, she wasn’t interested in moving anywhere. And the Prebend Gardens residents were still, mostly, on her side.
@@ -201,14 +201,14 @@ In the final three years of her life, Miss Naysmith’s physical health declined
 
 **L:** I last saw her near the bus stop outside the church. She was walking with great difficulty. I said hello, but there was a strange look in her eyes. Was it despair or defiance? She indicated that she didn’t need any help so I smiled, nodded and walked on feeling uneasy and wondering how much longer she could keep on. The following night she was hit by a lorry.
 
-![](/media/miss-naysmith-and-9.png)
+![](/media/miss-naysmith-and-9.jpg)
 *Tributes, February 2015*
 
 **N:** For the last 14 years that Speakeasy School has been at 24 Chiswick High Road, our doorway had been her bedroom most nights. She knew to come after 10 pm because of evening classes, and only on the odd occasion was she not packed up and gone for our opening at 9 am. We have lost our nightly security guard.
 
 Over 500 people attended the funeral, held at St Nicholas’, where she worshipped each week. Miss Naysmith herself paid for it. Two condolence books were filled with tributes, and the underpass garden was carpeted with flowers and messages.
 
-![](/media/miss-naysmith-and-10.png)
+![](/media/miss-naysmith-and-10.jpg)
 *Memorial service*
 
 **B:** Sometimes people are held in high esteem because of their job or profession. Some, like Anne, are respected because they are true to themselves. She had dignity, she was her own woman. She didn’t ask questions, she had the answers.
