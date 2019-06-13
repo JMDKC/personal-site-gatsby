@@ -52,7 +52,7 @@ Now rebranded as [WARC Rankings](https://www.warc.com/rankings), it’s become a
 
 ![agency finder presentation](/media/projects-agency-finder-1.png)
 
-This was my final project at General Assembly. I came up with the idea that, as my friends and peers at ad agencies were constantly changing jobs, there was a gap in the market for a specialist job finding service that complemented LinkedIn. [Full deck here](https://www.slideshare.net/secret/JtXgtAa9Zyl32i)
+This was my final project at General Assembly. I came up with the idea that, as my friends and peers at ad agencies were constantly changing jobs, there was a gap in the market for a specialist job finding service that complemented LinkedIn. [Full deck here](https://www.slideshare.net/secret/JtXgtAa9Zyl32i).
 
 Other than this idea (I still think the gap’s there…), the project gave me the opportunity to explore PM concepts like building a roadmap, measuring performance and managing the product’s lifecycle.
 
