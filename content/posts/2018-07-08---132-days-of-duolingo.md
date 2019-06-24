@@ -19,7 +19,7 @@ Admittedly, 10 minutes a day isn’t a massive time commitment. But, over 100 da
 
 The daily ritual is always the same. I complete two units in total, the bare minimum necessary to maintain the streak, in one of three languages: Italian, Spanish and Portuguese, all of which I feel like a rank beginner in. All three translate into French rather than English, so the biggest gain in theory is there. (I got that idea from a fellow addict, as improving my mediocre-to-intermediate French is my #1 language goal.)
 
-![](/media/132-days-of-duolingo-1.png)
+![](/media/132-days-of-duolingo-1.jpg)
 
 Aside from the outlandishly long daily streak, I’m representative of the typical user in terms of daily time spent in the app: [according to Duolingo’s own internal stats](http://sponsorships.duolingo.com/), 10 minute sessions are absolutely average. Also, the fact I use the app in the first place isn’t that unusual: it has around 150m users overall, [including 25m monthly actives](https://techcrunch.com/2017/07/25/duolingo-raises-25m-at-a-700m-valuation/?ncid=rss&guccounter=1). Duolingo offers more than 60 courses [in 19 languages in total](http://making.duolingo.com/for-which-courses-do-students-make-the-most-progress). Unsurprisingly, slightly more than half (53%) of Duolingo-ers use it to learn English.
 
@@ -49,7 +49,7 @@ And where has my hardcore fandom actually got me? To return to my original quest
 
 How about French then? I had the opportunity to test it out on a trip to Bordeaux a couple of weeks back. And my French was pretty much as passably mediocre as before. I felt my vocabulary had improved. I could spend money (food, drink ,tickets) slightly more fluently. But any deeper conversation and I was floundering as if I’d just been cast into the river Garonne in deepest February with no life jacket. So, spending the bare minimum time on a language learning app for many days in a row doesn’t make you a master in the language you’re learning: here ends the social science experiment.
 
-![](/media/132-days-of-duolingo-4.png)
+![](/media/132-days-of-duolingo-4.jpg)
 
 Anyway, I was so busy ordering drinks and food and tickets in French that, on day 133, my streak came to a sad end. Unsurprisingly, Duolingo’s evil genius at monetisation meant that they set an extra-but-not-stratospherically-high price to maintain the streak (£12). To my shame, I was seriously tempted to spend it, before returning to my senses… and a 0 day streak.
 
