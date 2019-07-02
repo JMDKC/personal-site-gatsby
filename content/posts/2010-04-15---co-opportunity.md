@@ -31,7 +31,7 @@ Grant pushed back against the idea that co-operation is somehow contrary to huma
 
 To Grant, "what brands can do brilliantly is broker change in people's lives". Even companies strongly associated with glossy, aspirational and expensive ad campaigns are getting the message. Grant highlighted this recent example from Nike, which told the story of "the girl effect".
 
-![](/media/co-opportunity-1.jpeg)
+![](/media/co-opportunity-1.jpg)
 
 Other standout examples from the client side include the [Pepsi Refresh Project](http://www.refresheverything.com/), a votes-based community programme which is paid for by funds previously earmarked for the firm's Super Bowl budget.
 

@@ -15,7 +15,7 @@ Following a winter of what seemed like unbroken rain, there's been a hint of spr
 
 But what's advertising's actual contribution to broader growth? Recently, the AA's been exploring these links. [Advertising Pays](http://www.warc.com/Content/Documents/A99126_Advertising_pays_How_advertising_fuels_the_UK_economy_.content?PUB=WARC-RESEARCH&CID=A99126&ID=103d7b0d-17b8-43e5-aacb-2ae2b3982c75), a Deloitte report commissioned by the AA and released in 2013, argued that each £1 invested in advertising pays back £6 in GDP; earlier this year, its follow-up, [Advertising Pays 2](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0CDUQFjAB&url=http%3A%2F%2Fwww.adassoc.org.uk%2Fpdfs%2FAdvAss_Advertising_Pays_Report.pdf&ei=kCUrU6OiLKnQ7AaCl4DYDA&usg=AFQjCNFz_V9yDqTu3UC7Ed5Kq5Tz2JCUzA&sig2=J0DzqWm5H4a2QAYQ9TKTBA&bvm=bv.62922401,d.ZGU), identified some potential drivers of future growth.
 
-![](/media/advertising-economic-impact-1.gif)
+![](/media/advertising-economic-impact-1.jpg)
 
 When I caught up with her in London last week, Karen Fraser, the AA’s strategy chief, gave me some background on these reports – starting with how small businesses remain perhaps Britain's biggest untapped advertising opportunity.
 
