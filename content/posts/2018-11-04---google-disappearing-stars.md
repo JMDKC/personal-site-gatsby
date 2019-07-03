@@ -18,7 +18,7 @@ Not to sound pompous, but this is one of the governing questions of my online li
 
 Do you know about the cult of the stars, flags and hearts? For initiates, it’s one of the most useful bits of one of Google’s most useful apps. Which is kind of like saying one of the most lofty crags on Everest or hottest spots on the sun, considering the Mountain View-based tech behemoth’s terrifyingly high standards of utility. Each spot on the map can be marked as follows: yellow star (favourite), green flag (want to go), red heart (extra favourite).
 
-![](/media/google-disappearing-stars-1.png)
+![](/media/google-disappearing-stars-1.jpg)
 
 Users can add their own personal quirks – for me, I’m vanilla on the green flags, but use yellow stars to mark places I’ve been – regardless of recommendation – and red hearts to mark places I’ve lived or stayed. That yellow star quirk was my original mistake – more on that later.
 
@@ -30,7 +30,7 @@ It’s not a secret what Google gets in exchange for its extreme utility: an eno
 
 Back to those yellow stars. After my initiation into the Google Maps tagging cult in mid-2017, I became a rabid evangelist. Especially useful for going on holiday – it’s changed the way I travel, too, for good and bad. These days, I’m in the business of switching those green flags – excitedly set pre-trip – into yellow stars, in a sort of bougie version of Pokemon Go. Gotta switch em all!
 
-![](/media//google-disappearing-stars-2.png)
+![](/media//google-disappearing-stars-2.jpg)
 
 Google, being incredibly clever, and engorged on fatty slabs of user data, knows this too. Its (incredible) Trips app gives you a scrolling feed of sites, restaurants and museums to greenflag – yes it’s a verb – before you head off.
 
@@ -54,7 +54,7 @@ After all, Google’s monopoly over online services is such that, in many cases,
 
 So this user mourns some lost stars, stays in the cult, and adjusts their behaviour in the future.
 
-![](/media//google-disappearing-stars-3.png)
+![](/media//google-disappearing-stars-3.jpg)
 
 Look at this nice empty place. It’s all ready for some greenflagging – and then some yellowstarring. If I do it, that’ll chop some more stars (late 2017 vintage) out of my mobile screen. I’ll survive, somehow.
 
