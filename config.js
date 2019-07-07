@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       label: 'Curriculum Vitae',
-      path: '/media/Joseph_Clift_CV_March_2018.pdf'
+      path: '/media/Joseph_Clift_CV_2019.pdf'
     }
   ],
   author: {
