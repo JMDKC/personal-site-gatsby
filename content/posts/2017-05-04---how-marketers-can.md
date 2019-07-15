@@ -52,7 +52,7 @@ Of course, these approaches will generally work better for a branded service or 
 ### Spin the wheel
 As a planner-turned-futurist, Follows had a different perspective on the brief. She suggested adopting a classic futurists’ tool: the Futures Wheel.
 
-![](/media/how-marketers-can-1.png)
+![](/media/how-marketers-can-1.jpg)
 [*Source: Wikipedia*](https://en.wikipedia.org/wiki/Futures_wheel)
 
 The wheel was invented by [Jerome C. Glenn](https://en.wikipedia.org/wiki/Jerome_C._Glenn), a US futurist, in the 1970s. To use it, the marketer thinks about a big trend or issue (in this case, people’s lack of attention). From there, they pick several “first-level consequences” — major cultural and societal consequences of that lack of attention. For example, the consequences of a lack of focus for advertising.
