@@ -8,7 +8,7 @@ category: "Economy"
 tags:
   - "Trends"
   - "Recession"
-description: "t's official: shopping at Aldi is now cool. Cash-strapped Britons, faced with the economy's stuttering recovery from its worst recession in decades, are making changes to their lifestyle."
+description: "It's official: shopping at Aldi is now cool. Cash-strapped Britons, faced with the economy's stuttering recovery from its worst recession in decades, are making changes to their lifestyle."
 ---
 
 It's official: shopping at Aldi is now cool. According to new research from RAPP UK, unveiled at its Opportunity in Austerity briefing in London, cash-strapped Britons, faced with the economy's stuttering recovery from its worst recession in decades, are making changes to their lifestyle - including doing more of their shopping at low-cost supermarkets.

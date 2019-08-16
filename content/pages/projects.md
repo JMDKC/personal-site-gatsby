@@ -25,13 +25,13 @@ Researching, writing and promoting the report became more than just a side proje
 
 ![artangled screenshot](/media/projects-artangled-1.png)
 
-Visual art is a major passion of mine. To practice Git and CSS, and give me a place to publish my (copious) notes from art shows, I build this deliberately simple website, using Github Pages and Jekyll. (Which I thoroughly recommend for mini-projects like this, given that it’s free hosting and you don’t have to bother with anything as complicated as a CMS.)
+Visual art is a major passion of mine. To practice Git and CSS, and give me a place to publish my (copious) notes from art shows, I built [this deliberately simple website](http://www.artangled.com), using Github Pages and Jekyll. Which I thoroughly recommend for mini-projects like this, given that it’s free hosting and you don’t have to bother with anything as complicated as a CMS.
 
-I’m having far too much fun with this project, which is very much a personal passion project rather than being anything for wide consumption. (Well, Artangled has all of 4 Twitter followers at time of writing…)
+I’m having far too much fun with this site, which is very much a personal passion project rather than being anything for wide consumption. (Well, Artangled has all of 4 Twitter followers at time of writing…)
 
 It’s well worth the £8 or so a year the domain costs from Namecheap. Though I do wish artangle.com had been available.
 
-I wrote a bit more about my obsessive visual art hobby in this post. And I’m still updating the site itself a few times a month.
+I wrote a bit more about my obsessive visual art hobby [in this post](https://josephclift.com/writing/why-im-getting-artangled). And I’m still updating the site itself a few times a month.
 
 ###WARC 100
 
