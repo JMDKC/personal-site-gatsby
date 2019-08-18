@@ -10,7 +10,7 @@ tags:
 description: "I hadn’t swum for 20 years before joining the club a few months back. Now, I leave a brightly-lit council-run pool in Elephant and Castle each Wednesday night with a definite spring in my step."
 ---
  
-Feeling deadline-induced stress, along with the vague sense that you don’t do enough queer stuff that doesn’t involve drinking and/or hooking up? I did, until I started weekly sessions at [Out to Swim](https://www.outtoswim.org/), an LGBT+ swimming club with classes in London and Brighton.
+Feeling deadline-induced stress, along with the vague sense that you don’t do enough queer stuff? I did, until I started weekly sessions at [Out to Swim](https://www.outtoswim.org/), an LGBT+ swimming club with classes in London and Brighton.
 
 I hadn’t swum for 20 years before joining the club a few months back. Now, I leave a brightly-lit council-run pool in Elephant and Castle each Wednesday night with a definite spring in my step, the day’s worries forgotten. On Sunday (sometimes) it’s an early evening hour in Victoria, just enough exercise to blast impending work worries out of my mind.
 
