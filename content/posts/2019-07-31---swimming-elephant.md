@@ -3,7 +3,7 @@ title: Swimming at the Elephant
 date: "2019-07-31"
 template: "post"
 draft: false
-slug: “/writing/swimming-elephant”
+slug: "/writing/swimming-elephant"
 category: "Personal"
 tags:
   - "Personal"
