@@ -15,7 +15,7 @@ description: "It’s a question we’ve all asked ourselves as we scroll through
 
 Two of digital's most-popular by-products, social media and gaming, were put under the microscope by a series of speakers at Unfolded, an event organised by [London-based creative agency Fold7](http://fold7.com/) and held yesterday night.
 
-![](/media/social-gaming-good-1.png)
+![](/media/social-gaming-good-1.jpg)
 *L-R: Lewis, Talks, Dunbar, Good - Image source, Fold7*
 
 First up was Professor Robin Dunbar, an Oxford academic and creator of [Dunbar’s Number](https://en.wikipedia.org/wiki/Dunbar%27s_number), which suggests that humans can comfortably maintain only 150 stable relationships. Then came Helen Lewis, deputy editor of political magazine The New Statesman and inventor of another social metric: [Lewis' law](http://geekfeminism.wikia.com/wiki/Lewis'_Law) holds that "the comments on any article about feminism justify feminism". Also speaking were Martin Talks, founder of [Digital Detoxing](http://www.digitaldetoxing.com/) - a company that takes participants on activity holidays on the proviso they leave their devices behind - and [cyber psychologist Berni Good](http://www.cyberpsychologist.co.uk/), an academic expert on gaming.

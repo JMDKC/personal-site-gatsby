@@ -13,7 +13,7 @@ description: "Being a product manager means that you have a lot of responsibilit
 
 > “Being a product manager means that you have a lot of responsibility, but no authority.”  
 
-![](/media/product-martyr-1.png)
+![](/media/product-martyr-1.jpg)
 
 This simple statement has the ring of truth to me. I found it in Matt LeMay’s really useful book, ‘[Product Management Fundamentals](http://shop.oreilly.com/product/0636920086567.do)‘. Here’s how I feel about the responsibility/authority divide.
 

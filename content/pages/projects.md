@@ -16,14 +16,14 @@ So the final Future of Strategy report was based on a global survey: phone, Skyp
 
 It’s since been a big success for the company. Not only is it the most-read report of the year on WARC, it has been presented on stage at some of the industry’s biggest events: from the Cannes Lions to Brand Week Istanbul.
 
-![brand week istanbul](/media/projects-fos-2.jpeg)
+![brand week istanbul](/media/projects-fos-2.jpg)
 *That’s me in the back, somewhere*
 
 Researching, writing and promoting the report became more than just a side project to me. It was personally inspiring to see how many debates the report has sparked, and how widely it’s been shared.
 
 ###Artangled
 
-![artangled screenshot](/media/projects-artangled-1.png)
+![artangled screenshot](/media/projects-artangled-1.jpg)
 
 Visual art is a major passion of mine. To practice Git and CSS, and give me a place to publish my (copious) notes from art shows, I built [this deliberately simple website](http://www.artangled.com), using Github Pages and Jekyll. Which I thoroughly recommend for mini-projects like this, given that it’s free hosting and you don’t have to bother with anything as complicated as a CMS.
 
@@ -35,7 +35,7 @@ I wrote a bit more about my obsessive visual art hobby [in this post](https://jo
 
 ###WARC 100
 
-![warc 100 screenshot](/media/projects-warc100-1.png)
+![warc 100 screenshot](/media/projects-warc100-1.jpg)
 *Pre-rebranding to WARC Rankings*
 
 This was the first digital product I built from the ground up, from initial idea to final release.
@@ -50,7 +50,7 @@ Now rebranded as [WARC Rankings](https://www.warc.com/rankings), it’s become a
 
 ###Agency Finder
 
-![agency finder presentation](/media/projects-agency-finder-1.png)
+![agency finder presentation](/media/projects-agency-finder-1.jpg)
 
 This was my final project at General Assembly. I came up with the idea that, as my friends and peers at ad agencies were constantly changing jobs, there was a gap in the market for a specialist job finding service that complemented LinkedIn. [Full deck here](https://www.slideshare.net/secret/JtXgtAa9Zyl32i).
 
@@ -58,7 +58,7 @@ Other than this idea (I still think the gap’s there…), the project gave me t
 
 ###Novelty Magazine
 
-![novelty logo](/media/projects-novelty-magazine-1.png)
+![novelty logo](/media/projects-novelty-magazine-1.jpg)
 
 I contributed features to this cultural affairs quarterly, writing on anything from the travials of being a cyclist in London to my morally dubious Deliveroo addiction.
 
