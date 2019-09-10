@@ -70,6 +70,7 @@
     "invariant": "^2.2.4",
     "katex": "^0.10.1",
     "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "moment": "^2.24.0",
     "netlify-cms": "^2.9.1",
     "node-sass": "^4.11.0",
