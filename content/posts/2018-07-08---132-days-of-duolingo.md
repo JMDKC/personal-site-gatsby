@@ -15,7 +15,7 @@ I spend around 10 minutes a day on Duolingo and I’m not convinced it’s worth
 
 And the fact these doubts only started occurring to me after I completed a 100 day streak on this maddeningly well-designed and moreish app is… annoying.
 
-Admittedly, 10 minutes a day isn’t a massive time commitment. But, over 100 days, that equals almost 17 hours. Most of a day! Is it even time well spent? I guess ‘yes’ was my subconscious answer, because I went all the way to 132 days before breaking the streak.
+Admittedly, 10 minutes a day isn’t a massive time commitment. But, over 100 days, that equals almost 17 hours. Most of a day! Is it even time well spent? I guess ‘yes’ was my subconscious answer, because I went all the way to 132 days before breaking the streak...
 
 The daily ritual is always the same. I complete two units in total, the bare minimum necessary to maintain the streak, in one of three languages: Italian, Spanish and Portuguese, all of which I feel like a rank beginner in. All three translate into French rather than English, so the biggest gain in theory is there. (I got that idea from a fellow addict, as improving my mediocre-to-intermediate French is my number one language goal.)
 
