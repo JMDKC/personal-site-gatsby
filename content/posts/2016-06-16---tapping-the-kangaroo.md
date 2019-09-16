@@ -18,7 +18,7 @@ They’re participating in a new, digitally-enabled form of freelance labour: wo
 
 And if you’re wondering why they’re so successful, just open up the app. You’re immediately confronted with a sumptuous scrolling feed of local restaurants, ordered by proximity. It’s a Twitter for the tastebuds, a Facebook for the famished, except much more satisfying, as it delivers actual food, instead of digital Likes.
 
-![](/media/tapping-the-kangaroo-1.png)
+![](/media/tapping-the-kangaroo-1.jpg)
 
 The service is more similar to Uber, actually. But, unlike the Uber app’s animated map of nearby vehicles, which gives off a coldly-efficient industrial surveillance vibe, Deliveroo’s cartoon branding, pastel colour palette and endlessly-scrolling high-definition food pictures promise sensual pleasure along with convenience. Choose your restaurant, then your meal, watch your GPS-tracked driver approach, say thanks, and eat. And it’s so easy to forget about that extra £2.50 you pay per order when no cash changes hands.
 
@@ -32,7 +32,7 @@ And what about the Roowomen and Roomen? Like Uber, Deliveroo depends on freelanc
 
 The Evening Standard recently gave Deliveroo its “colour feature” treatment, with one of its writers having the [pleasure of being a Rooman](http://www.standard.co.uk/lifestyle/london-life/angry-cabbies-halfnaked-customers-and-frozen-fingers-a-day-in-the-life-of-a-deliveroo-rider-a3188876.html) for the day. But what was clearly originally pitched as being a light-hearted exploration of the job swiftly turned dark. The journalist-turned-Rooman was ignored, and untipped, by an endless stream of customers. After all, it’s so easy not to give any extra cash when one of the service’s intrinsic advantages is paying for everything through your phone. And the feature brought home the physical wear and tear of working for Deliveroo: the writer complained of carrying a backpack “roughly the size and shape of an Ikea bedside table” and being left “tired, hoarse, cold and starving”.
 
-![](/media/tapping-the-kangaroo-2.png)
+![](/media/tapping-the-kangaroo-2.jpg)
 
 If you’re feeling particularly pretentious, you could see Deliveroo’s success as emblematic of the second machine age of the replacement of people through apps and automation, which is [bound to bring about severe social dislocation](http://www.theguardian.com/commentisfree/2015/dec/17/deliveroo-gig-economy-human-cost). If you have a problem with the digitally-enabled tectonic societal shift away from decently-paid middle-class jobs, and towards an insecure gig economy of underpaid freelancing, then – according to this line of thinking – you should have some qualms about tapping the kangaroo.
 
