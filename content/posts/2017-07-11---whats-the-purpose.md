@@ -27,7 +27,7 @@ While the event covered a lot more data and insights than I’ll write about her
 
 Let me explain. One big trend picked up by WARC’s Cannes analysis is the significant increase of brands using sustainability or CSR as a creative approach.
 
-![](/media/whats-the-purpose-1.png)
+![](/media/whats-the-purpose-1.jpg)
 *Source: WARC*
 
 Nearly half (47%) of the shortlist used this approach in 2017, a significant increase from the year before. And, despite the jury’s cynicism, a shortlisted entry was more likely than a non-shortlisted entry to be a CSR campaign. (Also note that emotional campaigns are most likely of all to be shortlisted – the heartstring factor again.)
