@@ -13,12 +13,12 @@ description: "There are many ways of defining advertising, but none of them real
 
 There are many ways of defining advertising, but none of them really work on their own. That’s according to no less a source than planning legend Paul Feldwick.
 
-![](/media/why-all-advertising-1.png)
+![](/media/why-all-advertising-1.jpg)
 *Advertising’s biggest theorisers over history*
 
 Here’s why you should believe him. Feldwick – [in his role at BMB (later bought by DDB)](http://www.paulfeldwick.com/index.php/about-me.html), was responsible for iconic campaigns including the 1990s Barclaycard ads starring Rowan Atkinson. More recently, he’s become something of an industry guru, revered by many (sample ad blogpost title: [“Is Paul Feldwick God?”](http://scampblog.blogspot.co.uk/2008/08/is-paul-feldwick-god.html)). So I counted myself lucky to hear him at ‘Unlearning’, an event organised by the Institute of Practitioners in Advertising, an agency trade body, and held in London earlier this month.
 
-![](/media/why-all-advertising-2.png)
+![](/media/why-all-advertising-2.jpg)
 [Paul Feldwick](https://twitter.com/saraaah_vickers/status/639095546205085696)
 
 Listening to Feldwick speak, I couldn’t help but feel a bit guilty that, having worked in the industry for more than five years, and for a company that’s supposedly [the world’s best source of advertising guidance](http://www.warc.com), I didn’t know more about the history of advertising.
@@ -29,7 +29,7 @@ Luckily, Feldwick gave a useful primer. (And by writing this up, hopefully you c
 
 This first theory started gaining wide currency with an incident that happened in 1903 – involving [Albert Lasker](https://en.wikipedia.org/wiki/Albert_Lasker).
 
-![](/media/why-all-advertising-3.png)
+![](/media/why-all-advertising-3.jpg)
 [Albert Lasker](https://en.wikipedia.org/wiki/Albert_Lasker)
 
 Lasker was an executive at the Lord & Thomas advertising agency in Chicago, the largest agency of its time. And, one day, he was confronted in his office by a jobbing copywriter, John E. Kennedy, who pitched his own three-word definition of advertising: salesmanship in print. “You must give the a ‘Reason Why’,” Kennedy added. This way of putting things so impressed Lasker that, in the years following, Lord & Thomas used ‘Reason Why’ in its own branding when touting for clients.
@@ -42,7 +42,7 @@ Good advice – up to a point. “Those are still pretty good rules for direct r
 
 But what about other types of ads that might be doing something completely different? For one thing, Hopkins didn’t deal at all with ads that aimed to boost a brand, rather than fill in a coupon.
 
-![](/media/why-all-advertising-4.png)
+![](/media/why-all-advertising-4.jpg)
 [Daniel Starch](http://www.lahistoriadelapublicidad.com/protagonista-63/daniel-starch)
 
 In stepped a clever market researcher: [Daniel Starch](https://en.wikipedia.org/wiki/Daniel_Starch), who invented the Starch Rating, a measure of attention.
@@ -55,7 +55,7 @@ After that, in the 1930s, there came [George Gallup](https://en.wikipedia.org/wi
 
 Gallup invented a concept that’s been hugely important in advertising, and the concept was taken a stage further by [Rosser Reeves](https://en.wikipedia.org/wiki/Rosser_Reeves), head of the Ted Bates agency.
 
-![](/media/why-all-advertising-5.png)
+![](/media/why-all-advertising-5.jpg)
 [Rosser Reeves](http://www.brandingstrategyinsider.com/2010/10/the-advertising-wisdom-of-rosser-reeves.html#.VfLnyRFVhBc)
 
 He’s best known as the inventor of the Unique Selling Proposition (USP) , perhaps the ultimate expression of the advertising-as-salesmanship theory, and for being notorious for writing repetitive, simple ads.
@@ -74,7 +74,7 @@ The alternative theory – summarised by Feldwick as “advertising as seduction
 
 Advertising as seduction dates all the way from 1903, to an academic work by Walter Dill Scott. The author, a psychology professor, talks about creating “suggestion” – subconscious ideas – through advertising.
 
-![](/media/why-all-advertising-6.png)
+![](/media/why-all-advertising-6.jpg)
 [Ernest Dichter](http://www.consumerculture.amdigital.co.uk/Introduction/NatureAndScope)
 
 This was developed in the 1950s through the Motivation Research of [Dr Ernest Dichter](https://en.wikipedia.org/wiki/Ernest_Dichter). “He was part of a group of Vienna emigrés to the US with some connection with Freud, who used that connection to sell their wares to advertisers,” Feldwick explained. So Dichter’s wacky-sounding ideas of brand ‘auras’ became a bit more credible by association.
@@ -87,7 +87,7 @@ And, beyond that, is yet another theory, one that looks out beyond narrow academ
 
 Feldwick put forward an unlikely advertising theorist who might have the strongest claim to defining the industry: [P.T Barnum](https://en.wikipedia.org/wiki/P._T._Barnum). This 19th century freakshow showman’s name lives on as a byword for baseless claims and sensationalism. But, as Feldwick pointed out, it’s Barnum who remains an undisputed master at both salesmanship and seduction.
 
-![](/media/why-all-advertising-7.png)
+![](/media/why-all-advertising-7.jpg)
 [P.T. Barnum](http://www.biography.com/people/pt-barnum-9199751)
 
 His hoaxes remain legendary. From claiming that the four-year-old dwarf child Tom Thumb – the “smallest person that ever walked alone” – was actually 11, to gluing together a dead monkey and a fish and touting it as the “Feejee mermaid”, Barnum’s travelling shows were spectacularly successful for decades. Talk about going viral!

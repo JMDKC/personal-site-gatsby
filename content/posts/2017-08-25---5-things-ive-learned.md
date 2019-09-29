@@ -21,7 +21,7 @@ So the final Future of Strategy report was based on a global survey: phone, Skyp
 
 (Sidebar: if you’re confused by me using ‘planner’ and ‘strategist’ interchangeably, much more on this issue below.)
 
-![](/media/5-things-ive-learned-1.png)
+![](/media/5-things-ive-learned-1.jpg)
 
 I also wanted to get views from across the spectrum: from creative, media and digital agencies; from Asia-Pacific, EMEA and the Americas (the survey was regionally balanced); and from heads of planning at individual agency offices, to people like Suzanne Powers, who heads up strategy at a global network with tens of thousands of employees.
 
@@ -34,20 +34,20 @@ Again and again, people treated the words “Deloitte”, “Accenture” and �
 
 Some bemoaned the “brain drain” of bright graduates to these better-paying, more data-oriented companies. Others reflected that the analytical, business-oriented strategic services they offered were, in the words of one, “exactly what our clients want”. This was borne out by the survey’s finding that less than half (46%) of the survey felt the agency planner had become more influential among clients in the past year or two.
 
-![](/media/5-things-ive-learned-2.png)
+![](/media/5-things-ive-learned-2.jpg)
 
 How can planners respond to changing client needs? For some, including Anthony Wong (quoted above), there’s a need for strategists to become more data savvy. Others pointed to agencies’ superior creativity, and suggested that the kind of great human insights offered by planners can’t be matched by a spreadsheet-wielding consultant.
 
 ### **2) Clients’ lack of time and cash is a bigger threat**
 But there’s a bigger monster out there than the scariest spreadsheet wielding Deloitte consultant: the brand manager. A really big finding from the survey was that 67% see “client pressures” as the single direst threat to their roles in future.
 
-![](/media/5-things-ive-learned-3.png)
+![](/media/5-things-ive-learned-3.jpg)
 
 And these pressures come down to time and money. “Advertising used to be so relaxed!” complained one participant, pointing out that insight-hungry clients, high on the “real-time marketing” Kool-aid, now demanded projects turned around in days rather than weeks.
 
 Budgetary pressures are also causing ever-more problems, particularly for a discipline in which “strategy hours” were often thrown in for free. More than one old hand in the survey pointed out that planning was often the first thing to get cut from the budget. “I get the sense they are trying to procure their way out of strategy,” complained another.
 
-![](/media/5-things-ive-learned-4.png)
+![](/media/5-things-ive-learned-4.jpg)
 
 How do agencies respond to this pressure? Guy Murphy, for one, argues for them to get on the front foot, push back – and charge a fair rate for strategic services.
 
@@ -58,7 +58,7 @@ Planners were split roughly 50/50 on whether they should sit with their fellow s
 
 One CSO, who is in favour of integrated teams, pointed out that she saw planners and creatives making friends and going to lunch together when they had to sit together: an outcome that can only benefit the work. On the other hand, more than one participant pointed out that planners are generally outnumbered by other teams, and, if they sit together, feel less inhibited about bouncing ideas off their tablemates.
 
-![](/media/5-things-ive-learned-5.png)
+![](/media/5-things-ive-learned-5.jpg)
 
 Though, while outnumbered, planner numbers are growing: around half of interviewees, including 53% at creative agencies, said their teams had increased in headcount in the past year.
 
@@ -72,7 +72,7 @@ And, whatever they’re called, they’re becoming more influential: 61% of plan
 ### **5) But, overall, the future’s bright**
 Despite the worries over definitions, consultancies, budgets and the seating plan, senior planners are seeing major opportunities in future.
 
-![](/media/5-things-ive-learned-6.png)
+![](/media/5-things-ive-learned-6.jpg)
 
 Almost three quarters (72%) identified one opportunity in particular as important for planning to increase its influence in future: going beyond solving communications problems to solving deep-lying business problems for clients. These problems could range from setting a brand purpose to advising on pricing. And there’s a shared sense that it’s in solving these problems that planners can best help clients.
 
