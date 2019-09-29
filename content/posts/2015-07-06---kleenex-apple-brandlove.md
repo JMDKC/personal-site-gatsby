@@ -15,7 +15,7 @@ description: "It’s hard to work back from Apple to give brand advice to Kleene
 
 So said Laurence Green, [ex of the Cadbury’s Gorilla](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAAahUKEwj1j-jnoMfGAhVFGCwKHTjVBwE&url=http%3A%2F%2Fwww.ipa.co.uk%2Fpage%2Feffectiveness-hall-of-fame--laurence-green&ei=N9maVbWYKsWwsAG4qp8I&usg=AFQjCNGli_pRRLXQY8fc2eyz6CO3PSa2Ig&sig2=8GDj4NZHL1uMjtM5IT8XXg&bvm=bv.96952980,d.ZGU), and [currently of creative agency 101 London](http://101london.co.uk/people/laurence-green/), at an [APG/Flamingo debate](http://www.eventbrite.co.uk/e/whats-love-got-to-do-with-it-flamingo-in-association-with-apg-tickets-17169163430) I attended the other day.
 
-![](/media/kleenex-apple-brandlove.jpg)
+![](/media/kleenex-apple-brandlove-1.jpg)
 
 The debate was all about “brand love”. Specifically, about the kicking that controversial metric comes in for in ‘[How Brands Grow](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCwQFjAAahUKEwioteT6oMfGAhVBHywKHdofBSw&url=http%3A%2F%2Fwww.amazon.co.uk%2FHow-Brands-Grow-What-Marketers%2Fdp%2F0195573560&ei=X9maVeiJHcG-sAHav5TgAg&usg=AFQjCNEyYECadbst8B1DbvdatHUzL-pz0A&sig2=HhvVeYFBpB5wSyGJZ8j7Eg&bvm=bv.96952980,d.ZGU)‘. (More proof that, despite being published five years ago, Australian academic Byron Sharp’s magnum opus remains that rarest of things: a talked-about marketing book.)
 
