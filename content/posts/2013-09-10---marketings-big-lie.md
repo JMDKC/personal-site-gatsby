@@ -16,7 +16,6 @@ Ever get suspicious that your Facebook friends are having too much fun? That the
 From this perspective, it's pretty obvious why so many are so keen to portray a happy and interest-packed life via Facebook. “In these social networks, you create your own brand – which you want to promote at all times,” Jouan said. It follows that marketers need to recognise this performative need to make others view us positively, and tailor their communications accordingly.
 
 <iframe src="https://player.vimeo.com/video/74111318" width="640" height="356" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/74111318">Christophe Jouan on marketing&039;Big Lie&#039;</a> from <a href="https://vimeo.com/user17751001">Warc</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 These days, there’s a lot of market research talk about the implicit memory: that ever-evolving set of new MR techniques that promise to uncover unconscious motivations and desires. But, as head of an organisation with an arsenal of traditional survey data stretching back 30 years, Jouan sees such "implicit memory" techniques as only a useful part of the research repertoire, rather than the be all and end all. The responsible client, he suggested, should not go all in with brain scanning and eye tracking and jettison the tried and true techniques.
 
