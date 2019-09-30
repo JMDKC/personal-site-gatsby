@@ -29,7 +29,6 @@ But it differs from these Agile frameworks in other, crucial, ways. For one thin
 A classic Kanban system is [used in the Imperial Palace gardens in Tokyo](http://scrumandkanban.co.uk/is-it-ever-okay-to-fully-load-a-system/).
 
 ![](/media/yes-we-kanban-2.jpg)
-*[Image source: David Lowe/Slideshare](http://www.slideshare.net/scrumandkanban/intro-tokanban-2015jun18slideshare)*
 
 Each visitor to the East Gardens is given a token as they enter; the visitor then gives the token back as they leave; after that, the attendant hands the token over to a new visitor, and the cycle continues. The number of tokens available is also the optimal number of people who should be exploring the gardens at any one time.
 
@@ -65,7 +64,6 @@ To get back some predictive control, there are a variety of Kanban-friendly repo
 **Chart 1: Cumulative flow diagram**
 
 ![](/media/yes-we-kanban-3.jpg)
-*[Image source: David Lowe/Slideshare](http://www.slideshare.net/scrumandkanban/intro-tokanban-2015jun18slideshare)*
 
 Each day, count how many cards you have in development, being tested, and done. The X axis measures time, the Y axis the number of cards. As each task is completed, the chart builds up and to the right.
 
@@ -74,7 +72,6 @@ The crucial thing about this chart is that you want the bands to be as smooth as
 **Chart 2: Scatterplot**
 
 ![](/media/yes-we-kanban-4.jpg)
-*[Image source: David Lowe/Slideshare](http://www.slideshare.net/scrumandkanban/intro-tokanban-2015jun18slideshare)*
 
 This chart again measures time on the X axis, but differs from the chart above by measuring “cycle time” (how many days a card takes to complete) on the Y axis.
 
@@ -85,7 +82,6 @@ Again, your aim is to limit the overall variation so that the flow is consistent
 **Chart 3: Histogram**
 
 ![](/media/yes-we-kanban-5.jpg)
-*[Image source: David Lowe/Slideshare](http://www.slideshare.net/scrumandkanban/intro-tokanban-2015jun18slideshare)*
 
 The final chart is similar to the scatterchart in that it shows the distribution of how long each task in the project took. It differs in that it moves the cycle time to the X axis, and arranges the number of cards/tasks completed for each cycle time in bars.
 
@@ -103,3 +99,7 @@ Scrum plays into the idea that working on lots of things at once may increase ef
 The main thing I’ll remember is the idea that allowing too much work in progress is as bad as having too little – instead, you need to aim for optimal flow to get the best result.
 
 And that, obviously, is a working principle that has far wider applications than just software development!
+
+----
+
+*All images in this post are sourced from [David Lowe's presentation on Slideshare](http://www.slideshare.net/scrumandkanban/intro-tokanban-2015jun18slideshare)*

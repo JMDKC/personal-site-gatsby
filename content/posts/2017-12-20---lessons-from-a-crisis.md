@@ -20,6 +20,7 @@ Prior to 2007, Britain enjoyed “Wild West” days, of easy credit and exotic f
 Then, when the crisis hit, many were pitched out of their homes. And Britain suffered its first bank run in 100 years, with the collapse of Northern Rock. (Several other big financial institutions, from RBS to Lloyds, were also taken into public ownership before the crisis was done).
 
 ![](/media/lessons-from-a-crisis-1.jpg)
+*Alistair Darling*
 
 While we are apparently dealing with the political consequences of the crisis – more on that later – the actual vertiginous feeling of those crisis days, particularly when the eye of the storm passed in the autumn of 2008, has been quickly forgotten.
 
