@@ -20,7 +20,7 @@ Of course, proper pricing is an essential concern for consumers. "The world is c
 Shoppers like to compare prices of similar goods – and many, like Goldilocks in the fairy tale, like to pick the mid-priced option by default. Caldwell illustrated this point by using bottles of wine as an example: a margin-conscious retailer, finding their £6 bottles outselling their £8 bottles, can boost sales of the latter by introducing a £10 bottle.
 
 ![](/media/a-pricing-primer-1.jpg)
-[Source: wineterroirs.com](http://fotservis.typepad.com/.a/6a00d8341c018253ef01774385a535970d-640wi)
+*[Source: wineterroirs.com](http://fotservis.typepad.com/.a/6a00d8341c018253ef01774385a535970d-640wi)*
 
 “At first, the £8 wine looks like the posh version,” Caldwell said. "Add a wider range of prices and you shift up the average price. High and low 'decoys' push people to the middle."
 
@@ -67,7 +67,7 @@ To Cook, there are four big value attributes that brands should follow in order 
 Brands should be flexible in order to justify their prices. For example, men-only online styling services Trunk Club asks potential customers to rank their "style level" before they start shopping.
 
 ![](/media/a-pricing-primer-2.jpg)
-[Source: Trunk Club](https://www.trunkclub.com/signup)
+*[Source: Trunk Club](https://www.trunkclub.com/signup)*
 
 After this, the Trunk Club stylist handpicks items suited to one of these three style segments, mails them out, and the user sends back what they don’t want. Shipping is free both ways. "Why go to the store when the store can come to you?" Cook added.
 

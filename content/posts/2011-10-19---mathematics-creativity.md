@@ -24,7 +24,7 @@ According to this hypothesis, the power of the great – rather than good – id
 But an alternative to the "one in 1000" idea is also supported by the maths. This is where Heath's theory, which is extensively discussed in [a 1999 Admap paper available to Warc subscribers](/Content/Documents/A9095_The_lowinvolvement_processing_theory.content?CID=A9095&ID=0435f6fd-15a5-4c3f-a548-0a79dbf095d9), comes in. Low Involvement Processing Theory suggests that the consumer doesn't need to be conscious of an ad to be aware of it. This means the Chanel ad pictured below can build awareness of the brand over time, even though it has no "big idea" and instead merely demonstrates one of the firm's products. In other words, even if the consumer is paying little to no attention, simple messaging still "gets through".
 
 ![](/media/mathematics-creativity-1.jpg)
-***Source: shoppingblog.com***
+*Source: shoppingblog.com*
 
 This marketing model, Leach argued, works in a similar way to the simple mathematical truth of compound interest: that the amount a cash deposit earns increases slowly over time if the interest rate remains static. A "little and often" approach, rather than having a one in 1000 idea, can prove useful to some advertisers.
 
@@ -39,7 +39,7 @@ The message for creatives is: great ideas are not flukes, occurring to random pe
 This can be seen in the fact that great ads are often a carefully-chosen mixture of apparently incompatible ingredients, which form a memorable whole. For example, this iconic ad from Nike consists of four ingredients: a football star, a flag, pagan warpaint and a (distingly un-pagan) crucifixion pose.
 
 ![](/media/mathematics-creativity-2.jpg)
-***Source: wordpress.com***
+*Source: wordpress.com*
 
 The alchemical process of producing creative gold from unpromising ingredients does not occur at random. Instead, the alchemy occurs by the creative "reading lots of odd stuff and filling [their] mind with lots of odd thoughts," Leach said.
 

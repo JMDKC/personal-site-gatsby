@@ -16,7 +16,7 @@ Some may deride this idea as corporate greenwashing, but the idea of brands "doi
 With that in mind, today's "doing good makes for good advertising" panel at [Advertising Week Europe](http://advertisingweek.eu/) was very much on trend. Addressing a venue packed out with London ad people, panellists from both the agency and client sides agreed on one key point: cause-related marketing cannot be superficial, but must instead represent a fundamental change in the way companies do business.
 
 ![](/media/can-ads-do-good-1.jpg)
-[Source: AA/Twitter](https://twitter.com/ad_association/status/314365312197869569/photo/1)
+*[Source: AA/Twitter](https://twitter.com/ad_association/status/314365312197869569/photo/1)*
 
 James Murphy, CEO of Adam&eveDDB, offered a creative agency perspective. "Don't look at cause marketing as being about the message you're putting out there – instead, understand that doing good creates the right context for messaging," he advised the audience.
 
