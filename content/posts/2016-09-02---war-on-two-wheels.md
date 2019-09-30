@@ -83,3 +83,7 @@ The cyclist, clad in his expensive kit, on his pricey bike, annoyed at the invas
 Then, the cyclist’s weapon - the most tempting thing to do when harsh words are exchanged, when you’re confronted with the twat in the twatmobile - the flat palm on the bonnet: bang, bang, bang! He hit me! The lights go green. The pair move off, across Tottenham Court Road, into the more down-at-heel end of Oxford street, past the trinket shops with their tourist tat.
 
 The man in the white BMW’s days terrorising the clogged arteries around Oxford Circus are numbered: all of the city’s mayoral candidates for the 2016 election [want to pedestrianise the area](http://www.theguardian.com/uk-news/davehillblog/2016/jan/28/how-would-londons-next-mayor-pedestrianise-oxford-street). But the rush hour monster will keep on breathing: in, out, in, out. And, as we shoot through its infinitely complicated respiratory system, we’ll continue bumping into each other in the rush.
+
+- - - -
+
+*The illustration in this post is by [Eduardo Féteira](https://eduardofeteirapholio.wordpress.com/)*

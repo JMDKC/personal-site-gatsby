@@ -20,7 +20,7 @@ Alexei Orlov, CMO for Greater China and ASEAN at VW Group China, is in a seeming
 "There was still so much to do," Orlov said. "We have had an over-reliance on short-term media spend and relied too much on awareness when we needed to seek out effectiveness." After a particular low point in 2010 - where polling suggested that the market leader was only the nation's 126th most-loved brand - VW decided to rebuild its reputation by aiming to create a sense of "magic" around its name.
 
 ![](/media/hover-branded-guanxi-1.jpg)
-[Hover Car: Source - wordlesstech.com](http://wordlesstech.com/wp-content/uploads/2012/05/Volkswagen-s-Hover-Car-concept-5.jpg)
+*[Hover Car: Source - wordlesstech.com](http://wordlesstech.com/wp-content/uploads/2012/05/Volkswagen-s-Hover-Car-concept-5.jpg)*
 
 Orlov added: “To win in China, your business needs to understand two essential things: [guanxi](http://en.wikipedia.org/wiki/Guanxi) - a delicate social dance of referral, where everyday interactions become transactional interactions - and hierarchy - respecting elders, opinion leaders and people in power." Such cultural insights, as well as the nation's phenomenal take-up of social media services, led to the company's decision to develop a digital crowdsourcing campaign, named People's Car Project; this competition, launched in 2011, invited entrants to compete with their designs for their ideal car. This led to VW receiving 260,000 car designs, 495,000 extra social media fans and 43m video views. The winning design, from young Chengdu resident Wang Jia, attracted media interest from across the world, even from such outré sources as [conspiracy theory website snopes.com](http://www.snopes.com/photos/technology/levitatingcar.aspx).
 
