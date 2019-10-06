@@ -7,7 +7,7 @@ slug: "/writing/lepore-life"
 category: "Personal"
 tags:
   - "Personal"
-description: "Here are some tips from the documentary movie I Hate New York, and via trans icon Amanda Lepore, that you might or might not want to try at homel"
+description: "Here are some tips from the documentary movie I Hate New York, and via trans icon Amanda Lepore, that you might or might not want to try at home."
 ---
 
 I wish I were Amanda Lepore - as Drag Race season 4 winner Sharon Needles  [sang that one time](https://www.youtube.com/watch?v=tlgnTREnqZo) .
