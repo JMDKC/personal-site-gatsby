@@ -1,6 +1,6 @@
 ---
 title: 8 life lessons from Amanda Lepore
-date: "2019-07-31"
+date: "2018-11-01"
 template: "post"
 draft: false
 slug: "/writing/swimming" 
