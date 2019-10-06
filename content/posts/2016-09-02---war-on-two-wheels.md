@@ -86,4 +86,4 @@ The man in the white BMW’s days terrorising the clogged arteries around Oxford
 
 - - - -
 
-*The illustration in this post is by [Eduardo Féteira](https://eduardofeteirapholio.wordpress.com/)*
+*The illustration in this post is by [Eduardo Féteira](https://eduardofeteirapholio.wordpress.com/).*
