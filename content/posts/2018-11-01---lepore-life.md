@@ -3,7 +3,7 @@ title: 8 life lessons from Amanda Lepore
 date: "2018-11-01"
 template: "post"
 draft: false
-slug: "/writing/swimming" 
+slug: "/writing/lepore-life" 
 category: "Personal"
 tags:
   - "Personal"
@@ -50,5 +50,3 @@ And your bubble is beautiful, Amanda. Now please  [post something more on your a
 
 - - - -
 I wrote this post initially for the [Fringe! Film Fest blog](http://www.fringefilmfest.com/blog/), and it’s since disappeared from the internet. So I reposted it here!
-
-#personalsite/posts
