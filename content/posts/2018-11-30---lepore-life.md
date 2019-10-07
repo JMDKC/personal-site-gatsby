@@ -1,6 +1,6 @@
 ---
 title: 8 life lessons from Amanda Lepore
-date: "2018-11-01"
+date: "2018-11-30"
 template: "post"
 draft: false
 slug: "/writing/lepore-life" 
