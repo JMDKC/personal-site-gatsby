@@ -19,7 +19,7 @@ module.exports = {
     },
     {
       label: 'Projects',
-      path: '/projects' target="_blank"
+      path: '/projects'
     },
     {
       label: 'Curriculum Vitae',
