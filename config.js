@@ -19,12 +19,12 @@ module.exports = {
     },
     {
       label: 'Projects',
-      path: '/projects'
+      path: '/projects' target="_blank"
     },
-//    {
-//      label: 'Curriculum Vitae',
-//      path: '/media/CV_2019.pdf'
-//    }
+    {
+      label: 'Curriculum Vitae',
+      path: '/media/CV_2019.pdf'
+    }
   ],
   author: {
     name: 'Joseph Clift',
