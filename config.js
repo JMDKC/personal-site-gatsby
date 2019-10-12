@@ -21,10 +21,10 @@ module.exports = {
       label: 'Projects',
       path: '/projects'
     },
-    {
-      label: 'Curriculum Vitae',
-      path: '/media/Joseph_Clift_CV_2019.pdf'
-    }
+//    {
+//      label: 'Curriculum Vitae',
+//      path: '/media/CV_2019.pdf'
+//    }
   ],
   author: {
     name: 'Joseph Clift',
