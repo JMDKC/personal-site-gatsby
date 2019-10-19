@@ -46,7 +46,7 @@ Just like the 2018 march, it was surprisingly quiet. There were some group chant
 
 ![](/media/notes-march-5.jpg)
 
-On Pall Mall, I joined the march properly, behind a little forest of signs for REIGATE LIBERAL DEMOCRATS.   Generally, there were a lot of children excitedly marching with their families.
+On Pall Mall, I joined the march properly, behind a little forest of signs for REIGATE LIBERAL DEMOCRATS. There were a lot of children excitedly marching with their families.
 
 My mind wandered. I’d attended, [and written about](http://artangled.com/2019/03/24/ghirri-paume/), the Ghirri retrospective at the Jeu de Paume a few months ago. Something in me responded to the comfort and hopefulness of his photos. His well-swept patios, tidy hedges and stacks of consumer goods are lit by golden sunlight and undergirded by solid years of post-war economic growth. Ghirri, a surveyor by trade, delighted in an almost mathematical precision in his depictions of bourgeois life. Along with the beauty of his images, there’s an easy acceptance of the movements of capital that built his world; one of his favourite subjects was advertising billboards, which he photographed obsessively. What made all this wealth? Italy’s membership of the European Union since the 50s was one factor.
 
