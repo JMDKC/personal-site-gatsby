@@ -26,7 +26,7 @@ Another couple, the man in a waxy Barbour jacket, holding a sign pleading to sta
 
 ![](/media/notes-march-2.jpg)
 
-I let go of my gallery plans, and decided to march instead. One of the exhibitions on my list I'd been blocked from was a [Luigi Ghirri show at Thomas Dane Gallery](https://www.thomasdanegallery.com/usr/documents/exhibitions/press_release_url/222/luigi-ghirri-_-_.pdf). It’s based around *Collazione sul l’herba*, the Italian photographer’s star-making series from the early 70s, in which he depicted sunny, well-ordered scenes from Modena, his prosperous hometown. He was in his element in peaceful suburbs full of wealthy people - just the type of place most of these marchers are coming from.
+I let go of my gallery plans, and decided to march instead. One of the exhibitions on my list I'd been blocked from was a [Luigi Ghirri show at Thomas Dane Gallery](https://www.thomasdanegallery.com/usr/documents/exhibitions/press_release_url/222/luigi-ghirri-_-_.pdf). It’s based around *Colazione sul l’herba*, the Italian photographer’s star-making series from the early 70s, in which he depicted sunny, well-ordered scenes from Modena, his prosperous hometown. He was in his element in peaceful suburbs full of wealthy people - just the type of place most of these marchers are coming from.
 
 Some ultra-wealthy, too. I could have sworn I heard a champagne cork pop, up on a balcony in one of those incredibly grand houses that overlook the eastern edge of Green Park. That’s St James’s, home of hedge funds, gentlemen’s clubs and the kind of galleries that are private-appointment-only on Saturdays. And… it looked like a People’s Vote party, with one of the (white, middle-aged) people sunning themselves on the balcony wearing a felt EU hat.
 
