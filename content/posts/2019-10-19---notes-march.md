@@ -52,7 +52,7 @@ My mind wandered. I’d attended, [and written about](http://artangled.com/2019/
 
 ![](/media/notes-march-6.jpg)
 
-At the bottom of Haymarket, I took a little break. Again, looking up towards Piccadilly Circus, life carried on as normal, a double decker bus rounding the corner and going up the hill, I looked back at the ugly, pompous Crimean War memorial at the intersection with Pall Mall, and the passing marchers. The photo above was soundtracked by a fellow spectator, a man in work overalls, who I guess had had his way blocked by the march. He said to his colleague: “I think it’d be easier if we pushed a van through them.”
+At the bottom of Haymarket, I took a little break. Again, looking up towards Piccadilly Circus, life carried on as normal, a double decker bus rounding the corner and going up the hill, I looked back at the ugly, pompous Crimean War memorial at the intersection with Pall Mall, and the passing marchers. The photo above was soundtracked by a fellow spectator, a man in work overalls, who I guess had had his way blocked by the march. He said to his colleague: “I think it’d be easier if we drove a van through them.”
 
 Despite being definitely more on the side of the people getting run over by the van than the driver of the van, I felt too ambivalent to risk the crush down Whitehall, so I bailed from the march at Trafalgar Square: pretty much the point where I’d joined the previous one in 2018.
 
