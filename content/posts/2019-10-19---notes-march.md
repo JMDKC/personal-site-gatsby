@@ -72,8 +72,8 @@ And I’m sure this anger is returned, despite the placid nature of the march. I
 
 ![](/media/notes-march-9.jpg)
 
-Here’s another picture from this afternoon. I overheard a dad and son, taking a break before going down Whitehall, discussing the flags and the slogans in the clipped, awkward, embarrassed way of the British middle classes. I wonder how each will remember the day in future.
+Here’s another picture from this afternoon. I overheard a dad and son, taking a break before going down Whitehall, discussing the flags and the slogans in the clipped, awkward, embarrassed way of the British middle classes.
 
-I’m wavering, still wavering, as to whether I’m with them or not. That my snide reaction to my fellow marchers is rooted in my own self-doubt.
+I'm being snide. I saw myself in both men. I realised that my reactions to my fellow marchers are rooted in my own self-doubt. That in seeing them, I'm seeing myself. And I'm wondering what I'm looking at.
 
-Or maybe it’s best to ignore it all completely. The Ghirri show runs until November 16th. Pre or post Brexit? Who knows?
+Maybe it’s best to look at something else. Some photos of sunny days from an increasingly distant past. The Ghirri show runs until November 16th. Pre or post Brexit? Who knows?
