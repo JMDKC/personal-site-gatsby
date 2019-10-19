@@ -60,7 +60,7 @@ Despite being definitely more on the side of the people getting run over by the 
 
 Walking back towards Embankment, I saw one of those bike rickshaws, with two confused Indian passengers, on a doomed mission towards Leicester Square, I guess. Blocked by the huge crowds, the rickshaw came back without the passengers two minutes later.
 
-Crossing the river via Hungerford footbridge, I was still in a crowd, but this time a far more ethnically and nationally diverse one of tourists, I looked upriver: the Millennium Wheel, icon of a more hopeful recent past, in the middle the new Dubai-style towers of Nine Elms past Vauxhall, London’s present, and on the other bank of the river, parliament, where the Brexit wrangles continued.
+Crossing the river via Hungerford footbridge, I was still in a crowd, but this time a far more ethnically and nationally diverse one of tourists, I looked upriver: close by, the Millennium Wheel, icon of a more hopeful recent past, further away, the new Dubai-style towers of Nine Elms, and on the other bank of the river, parliament, where the Brexit wrangles continued.
 
 ![](/media/notes-march-8.jpg)
 
