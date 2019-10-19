@@ -42,7 +42,7 @@ I remembered the other People’s Vote march I’d attended, though at that time
 
 I overheard a kid’s voice, shouting “bollocks to Brexit”. I heard a whistle following the same syllabic rhythm of these words over and over on the march. I knew which words matched the rhythm. Bollocks to Brexit - it’s gone beyond words, beyond a political strategy. It doesn’t relate to any future referendum. I’d argue it has gone beyond revoking article 50. It’s an incantation, the aural equivalent of an #FBPE hashtag on Twitter. It’s taken deep root in the brains of these people, and it's going to inform their political decisions for decades. Mine, too, probably.
 
-Just like at the 2018 march, it was surprisingly quiet. There were some group chants, taken up sporadically, but nothing really getting going. No collective shouting. Having had comparatively little to protest about previously, these aren’t experienced protesters. A few choruses of *Ode to Joy*, nobody really knowing the words, just the tune. And probably being too embarrassed to sing along anyway.
+Just like the 2018 march, it was surprisingly quiet. There were some group chants, taken up sporadically, but nothing really getting going. No collective shouting. Having had comparatively little to protest about previously, these aren’t experienced protesters. A few choruses of *Ode to Joy*, nobody really knowing the words, just the tune. And probably being too embarrassed to sing along anyway.
 
 ![](/media/notes-march-5.jpg)
 
