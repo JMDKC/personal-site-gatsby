@@ -20,9 +20,7 @@ The train was rammed with families and groups of pensioners, clad in European Un
 
 Shuffling into the park, I got more of a measure of the march’s demographic. Two word summary: well heeled.
 
-I saw one woman in the octagonal Ace & Tate eyeglasses that seem to have taken over London this autumn, clad in a t-shirt: ULTRA REMAINER. 
-
-Another couple, the man in a waxy Barbour jacket, holding a sign pleading to stay in the EU for their grandchildren, whose names included “Theodora” and “Felix”. There were several cute dogs clad in EU flag coats - or sometimes sporting the bright yellow BOLLOCKS TO BREXIT sticker I’ve seen so many times recently.
+I saw one woman in the octagonal Ace & Tate eyeglasses that seem to have taken over London this autumn, clad in a t-shirt: ULTRA REMAINER. Another couple, the man in a waxy Barbour jacket, holding a sign pleading to stay in the EU for their grandchildren, whose names included “Theodora” and “Felix”. There were several cute dogs clad in EU flag coats - or sometimes sporting the bright yellow BOLLOCKS TO BREXIT sticker I’ve seen so many times recently.
 
 ![](/media/notes-march-2.jpg)
 
@@ -34,7 +32,7 @@ Some ultra-wealthy, too. I could have sworn I heard a champagne cork pop, up on 
 
 In the orderly queue for nice sandwiches from the Green Park food stand, a Gen Xer wore a black T shirt with the yellow Nirvana font, with a single word: REMAIN. “It’s all very chilled actually,” an arty type trilled, into her iPhone.
 
-Walking down towards the Mall, I overheard the concerns of advanced age: “Excuse me, are there steps at the end there?” And felt the enormous Englishness of this crowd.  Among the few people from other European nations I saw was a confused family of Spanish tourists, walking contraflow, presumably wondering why their trip to see Buckingham Palace was being disrupted by these genteel hordes. Also working in the garden one of the grand houses was a builder in a high viz gilet, lone, back turned to the march. As good a likelihood as not that he was here from Eastern Europe.
+Walking down towards the Mall, I overheard the concerns of advanced age: “Excuse me, are there steps at the end there?” And felt the enormous Englishness of this crowd.  Among the few people from other European nations I saw was a confused family of Spanish tourists, walking contraflow, presumably wondering why their trip to see Buckingham Palace was being disrupted by these genteel hordes. Also working in the garden one of the grand houses was a builder in a high viz gilet, alone, back turned to the march. As good a likelihood as not that he was here from Eastern Europe.
 
 I remembered the other People’s Vote march I’d attended, though at that time I’d been much more furiously engaged in the Brexit ups and downs, and had specifically planned to march. I had to check my phone for the date: 20th October 2018. I have no memory of at which turn in the negotiations this event took place, but I remember a similar demographic of marchers - and a similarly sunny day.
 
