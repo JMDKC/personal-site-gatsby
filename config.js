@@ -23,7 +23,7 @@ module.exports = {
     },
     {
       label: 'Curriculum Vitae',
-      path: '/media/CV_2019.pdf'
+      path: '/curriculum-vitae'
     }
   ],
   author: {
