@@ -12,8 +12,6 @@ tags:
 description: "Agile documentation needs to do the minimum viable job. Docs shouldn’t be comprehensive, but they should still exist. Here's an example!"
 ---
 
-
-# An Epic document
 It’s right there in the [Agile Manifesto](https://agilemanifesto.org/): today’s product teams should prioritise “working software over comprehensive documentation”.
 
 A nice thought. But having notched up several years of working with Agile teams, I feel like these five words have led to an unfortunate belief taking hold among certain zealots: that we don’t need documentation at all!
@@ -77,12 +75,12 @@ The important part of the document - the “why” - is the only part that will 
 
 You’ll probably have guessed by now that I was the driving force within the team for producing these documents. So I’m going to be as honest with myself as possible when putting together the list of Pros and Cons of our experience with Epic documents so far.
 
-**Pros:**
+**Pros**
 * These documents have been effective in the Product Manager’s validating of background assumptions as to why we *need* a particular new tool or feature.
 * They’ve become very useful reference documents for me, who works on delivery further down the funnel, in providing an effective one-page summary of a particular product or feature.
 * They fit in well with our current workflow: of course, they are keyed to individual JIRA epics. The documents themselves are in Google Doc format, and are stored in a particular folder in our team Wiki, which is on the corporate G-Suite. While you could put them in Confluence or Sharepoint, they must be living and editable documents, subject to changes and accessible to the team at any moment, *not* forgettable and losable attachments on an email.
 
-**Cons:**
+**Cons**
 * To be truly Agile, these documents would be a resource written by and maintained by the team. At the moment, the devs aren’t really involved. On one hand, this is to be expected - as the developers might naturally work more on the Stories, which are tech reviewed and estimated by them. And, quite naturally, the devs are more inclined to be opposed to over-comprehensive documentation. But on the other hand, everyone in the team should have a degree of ownership on the “why” behind the products, and nobody should be solely focused on the delivery.
 * While pretty minimal, I can see these documents getting bloated over time. Because that’s always the way with IT documentation, which is itself the reason the Agile Manifesto was written in the first place!
 * The documents are a long way from [true OKRs](https://weekdone.com/resources/objectives-key-results) - the success metrics mentioned in them are only suggested, rather than enforced. Similarly, the documents are closely coupled to JIRA epics rather than the broader business strategy, making them of limited use outside of the product team. 
