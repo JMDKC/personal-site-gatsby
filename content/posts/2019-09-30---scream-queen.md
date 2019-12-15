@@ -107,7 +107,7 @@ Maybe I’m being unfair though, daddy does suggest Jesse checks into a “metho
 
 Whatever the camp insanity happening onscreen, what was happening behind the camera was even crazier, as is revealed by the Scream, Queen! documentary.
  
-![giffage](/media/scream-queen-11 copy.gif)
+![giffage](/media/scream-queen-11.gif)
  
 Sholder deserves some credit for getting the film together at all, given the time and budget constraints. Ultimately, *Freddy’s Revenge* was a modest box office success. But, the documentary suggests, the director in such a hurry that it seems he didn’t notice the mighty gayness of the script, by David Chaskin.
 
