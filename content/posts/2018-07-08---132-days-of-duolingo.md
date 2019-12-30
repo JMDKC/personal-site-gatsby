@@ -47,7 +47,7 @@ That’s not to say the service is perfect. The store in which the user can spen
 
 And where has my hardcore fandom actually got me? To return to my original question from a different angle: am I actually better at French 100 days of Duolingo later? I’m certainly not any better at Portuguese, Spanish or Italian, none of which I’d attempt at anything other than the most basic level.
 
-How about French then? I had the opportunity to test it out on a trip to Bordeaux a couple of weeks back. And my French was pretty much as passably mediocre as before. I felt my vocabulary had improved. I could spend money (food, drink ,tickets) slightly more fluently. But any deeper conversation and I was floundering as if I’d just been cast into the river Garonne in deepest February with no life jacket. So, spending the bare minimum time on a language learning app for many days in a row doesn’t make you a master in the language you’re learning: here ends the social science experiment.
+How about French then? I had the opportunity to test it out on a trip to Bordeaux a couple of weeks back. And my French was pretty much as passably mediocre as before. I felt my vocabulary had improved. I could spend money (food, drink, tickets) slightly more fluently. But any deeper conversation and I was floundering as if I’d just been cast into the river Garonne in deepest February with no life jacket. So, spending the bare minimum time on a language learning app for many days in a row doesn’t make you a master in the language you’re learning: here ends the social science experiment.
 
 ![](/media/132-days-of-duolingo-4.jpg)
 
