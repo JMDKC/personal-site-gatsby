@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://josephclift.com',
   title: 'Joseph Clift',
-  subtitle: 'London-based product manager',
+  subtitle: 'London-based tech delivery specialist',
   copyright: '© All rights reserved',
   disqusShortname: '',
   postsPerPage: 25,
