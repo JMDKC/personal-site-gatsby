@@ -29,7 +29,7 @@ module.exports = {
   author: {
     name: 'Joseph Clift',
     photo: '/photo.jpg',
-    bio: 'I am a London-based product manager.',
+    bio: 'London-based, working in tech',
     contacts: {
       email: 'inactionman82@gmail.com',
       twitter: 'jmdkc',
