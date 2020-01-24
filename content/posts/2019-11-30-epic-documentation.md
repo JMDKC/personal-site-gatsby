@@ -9,7 +9,7 @@ tags:
   - "Product Management"
   - "Strategy"
   - "Business"
-description: "Agile documentation needs to do the minimum viable job. Docs shouldn’t be comprehensive, but they should still exist. Here's an example!"
+description: "Agile documentation needs to do the minimum viable job. Docs shouldn’t be comprehensive, but they should still exist. Here's an example."
 ---
 
 It’s right there in the [Agile Manifesto](https://agilemanifesto.org/): today’s product teams should prioritise “working software over comprehensive documentation”.
