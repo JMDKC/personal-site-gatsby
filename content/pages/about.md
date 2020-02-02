@@ -6,9 +6,9 @@ slug: "/about"
 
 ![it me](/media/headshot.jpg)
 
-I’m a product manager at WARC, the world’s largest advertising information service.
+I work in digital delivery at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company. More specifically, I run the agile ceremonies, manage the backlog and organise the technical documentation for several digital teams.
 
-I researched and wrote the [Future of Strategy report](/media/future-of-strategy.pdf), a deep dive into one of advertising’s most important but least-understood disciplines.
+Previously, I researched and wrote the [Future of Strategy report](/media/future-of-strategy.pdf), a deep dive into one of advertising’s most important but least-understood disciplines.
 
 I also led development on the WARC 100, [now WARC Rankings](https://www.warc.com/rankings), one of the industry’s most widely-known ranking and benchmarking products.
 
