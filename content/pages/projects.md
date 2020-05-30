@@ -6,7 +6,7 @@ slug: "/projects"
 
 ###Future of Strategy
 
-![future of strategy](/media/projects-fos.png)
+![future of strategy](/media/projects-fos.jpg)
 
 A global research project that took about a year, alongside my day-to-day PM tasks. The [Future of Strategy report](/media/future-of-strategy.pdf) was also based on a big user need: WARC’s hardcore fans, and paying users, tend to be planners at ad and media agencies. But within the marketing industry as a whole, the planning discipline is little-understood and often overlooked.
 
