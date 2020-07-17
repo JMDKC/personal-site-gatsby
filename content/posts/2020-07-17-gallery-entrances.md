@@ -18,11 +18,11 @@ But, four months in, all I can complain about is a cancelled trip to Paris, orig
 
 My main hobby is visual art ([see side project here](http://artangled.com/)), so gallery-going is the main focus of my Paris trips. But of course this indoor hobby has been made more difficult in the pandemic. In London, most commercial galleries have now reopened, but they are mainly appointment-only, with reduced opening hours. Visiting was always a bit intimidating and inconvenient, now it's even more so.
 
-In Paris, these barriers to entry were always even higher. Unlike in London, you need to ring a bell or buzzer to get in. While most London galleries face on to the street, their counterparts in Paris tend to be upstairs, or through a courtyard (doubling the number of doors to pass through). Which all adds up to a lot of cringe moments, pride-swallowing, and plucking up of courage, for the not-very-good-French speaking visitor.
+In Paris, these barriers to entry were always even higher. Unlike in London, you generally need to ring a bell or buzzer to gain entry. While most London galleries face on to the street, their counterparts in Paris tend to be upstairs, or through a courtyard (doubling the number of doors to pass through). Which all adds up to a lot of cringe moments, pride-swallowing, and plucking up of courage, for the not-very-good-French speaking visitor.
 
-I’m not complaining though. In a hard, impersonal and closed-off city, the difficulty of gaining entry, and those cringe moments, are compensated by finding what’s inside. Maybe the difficulty’s the point.
+I’m not complaining though. In a hard, impersonal and closed-off city, the difficulty of gaining entry, and those cringe moments, are worthwhile, counterbalanced by the deep pleasure of viewing what's inside. Or maybe the compound minor inconveniences that discourage going inside contribute to this pleasure.
 
-Here are 11 Parisian gallery entrances that have drifted into my mind today, as I wonder when, or whether, I’ll see all of them again. For no reason at all, I’ve arranged them in ascending order of accessibility. In times when they're accessible at all.
+Here are 11 Parisian gallery entrances that have drifted into my mind today, for whatever reason. I wonder when, or whether, I’ll see all of them again. For no reason at all, I’ve arranged them in ascending order of accessibility.
 
 ### Mazzoleni Art
 
