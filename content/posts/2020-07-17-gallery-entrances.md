@@ -14,9 +14,9 @@ description: "Being in lockdown made me miss travelling, and reminisce about int
 
 I’ve been lucky during this pandemic. I have kept my job, and can work from home, which is safely isolated and peaceful. No close friends or family have caught the virus, symptomatically at least. All of this can change, of course. I pray it doesn’t.
 
-But, four months in, the only tangible COVID-related disruption is a cancelled trip to Paris, originally planned for March, now postponed until September. 
+But, four months in, I can count a cancelled trip to Paris, originally planned for March, as a relatively major COVID-related disruption. 
 
-My main hobby is visual art ([see side project here](http://artangled.com/)), so gallery-going is the main focus of my Paris trips. But of course galleries have been hit hard by the pandemic: in London, most commercial galleries have now reopened but have made a few changes. visits tend to be by appointment, and opening hours are reduced. Which makes the barriers to entry (often physical as well as mental) for visiting that bit higher. 
+My main hobby is visual art ([see side project here](http://artangled.com/)), so gallery-going is the main focus of my Paris trips. But of course galleries have been hit hard by the pandemic: in London, most commercial galleries have now reopened but have made a few changes. These days, visits tend to be by appointment, and opening hours are reduced. Which makes the barriers to entry (often physical as well as mental) for visiting that bit higher. 
 
 In Paris, these barriers have always been high though. Most London galleries can be entered off the street or up a staircase; you only have to ring the bell to gain entry for a few of them. In Paris, bell-ringing is the norm, plus most of them are set back from the street, behind a courtyard. Generally there are two sets of doors (and buzzers) to negotiate, and two mini-conversations via the buzzer, in another language, with the gallerist indoors. Which all adds up to a lot of cringe moments, pride-swallowing, and plucking up of courage, to get inside.
 
