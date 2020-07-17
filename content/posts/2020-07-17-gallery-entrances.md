@@ -28,7 +28,7 @@ Here are 11 Parisian gallery entrances that have drifted into my mind today, as 
 
 ![a parisian gallery entrance](/media/gallery-entrances-1.jpg)
 
-Slap bang in the middle of the main bougie gallery district (the Marais), entrance to this one is pretty straightforward, given that the gallery has given you a line on the ground to follow. This is probably less for the visitor’s convenience though, and more to keep you away from the other buildings, with offices and flats, that the gallery shares. You don’t want to ring *their* bells.
+Slap bang in the middle of the main bougie gallery district (the Marais), entrance to this one is pretty straightforward, given that the gallery has given you a line on the ground to follow. This is probably less for the visitor’s convenience though, and more to keep you away from the other buildings, with offices and flats, in the common area in front of the gallery. You don’t want to ring *their* bells.
 
 ### Vallois
 
