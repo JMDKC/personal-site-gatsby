@@ -22,7 +22,7 @@ In Paris, these barriers have always been high though. Most London galleries can
 
 I’m not complaining though. In a hard, impersonal and closed-off city, the difficulty of gaining entry, and those cringe moments, are compensated by finding what’s inside. Maybe the difficulty’s the point.
 
-Here are 11 Parisian gallery entrances that have drifted into my mind today, as I wonder whether I’ll see them again in September, and how the world will have changed between now and then. For no reason at all, I’ve arranged them in ascending order of difficulty.
+Here are 11 Parisian gallery entrances that have drifted into my mind today, as I wonder when, or whether, I’ll see all of them again. For no reason at all, I’ve arranged them in ascending order of difficulty.
 
 ### Mazzoleni Art
 
