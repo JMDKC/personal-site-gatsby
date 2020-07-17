@@ -14,7 +14,7 @@ description: "Being in lockdown made me miss travelling, and reminisce about int
 
 I’ve been lucky during this pandemic. I have kept my job, and can work from home, which is safely isolated and peaceful. No close friends or family have caught the virus, symptomatically at least. All of this can change, of course. I pray it doesn’t.
 
-But, four months in, I can count a cancelled trip to Paris, originally planned for March, as a relatively major COVID-related disruption. 
+But, four months in, all I can complain about is that my trip to Paris, originally planned for March, wasn't possible. Big wow.
 
 My main hobby is visual art ([see side project here](http://artangled.com/)), so gallery-going is the main focus of my Paris trips. But of course galleries have been hit hard by the pandemic: in London, most commercial galleries have now reopened but have made a few changes. These days, visits tend to be by appointment, and opening hours are reduced. Which makes the barriers to entry (often physical as well as mental) for visiting that bit higher. 
 
