@@ -24,11 +24,13 @@ I’m not complaining though. In a hard, impersonal and closed-off city, the dif
 
 Here are 11 Parisian gallery entrances that have drifted into my mind today, for whatever reason. I wonder when, or whether, I’ll see all of them again. For no reason at all, I’ve arranged them in ascending order of accessibility.
 
-### Mazzoleni Art
+### Tornabuoni Art
 
 ![a parisian gallery entrance](/media/gallery-entrances-1.jpg)
 
 Slap bang in the middle of the main bougie gallery district (the Marais), entrance to this one is pretty straightforward, given that the gallery has given you a line on the ground to follow. This is probably less for the visitor’s convenience though, and more to keep you away from the other buildings, with offices and flats, in the common area in front of the gallery. You don’t want to ring *their* bells.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.317278764827!2d2.3605066!3d48.861465!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6f86b566cfa342a4!2sTornabuoni%20Art%20Gallery!5e0!3m2!1sen!2suk!4v1595010324543!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ### Vallois
 
@@ -46,19 +48,19 @@ Getting in here follows the standard process. You buzz in to the courtyard on th
 
 ![a parisian gallery entrance](/media/gallery-entrances-4.jpg)
 
-Closer to the metro stop of the same name, in a marginally scuzzier area, this gallery gets points for its subtle fuck-yous: note the beautiful cobbles, set off by the sharp step at the threshold to the gallery itself. I have never not tripped on this step, but lucky for me I don’t have mobility problems or I’d have been turned away before I even hit the courtyard. Oh, and don’t come less than an hour before closing or they might have shut it already. This one would be higher ranked, but minor deduction for not having *another* buzzer on the main door to show the riffraff who’s really in charge here.
+Close to the metro stop of the same name, in a marginally scuzzier area, this gallery gets points for its subtle fuck-yous: note the bumpy cobbles, set off by the sharp step at the threshold to the gallery itself. I have never not tripped on this step, but lucky for me I don’t have mobility problems or I’d have been turned away before I even hit the courtyard. Oh, and don’t come less than an hour before closing or they might have shut it already. This one would be higher ranked, but minor deduction for not having *another* buzzer on the main door to show the riffraff who’s really in charge here.
 
 ### Kamel Mennour
 
 ![a parisian gallery entrance](/media/gallery-entrances-5.jpg)
 
-This gallery has two locations on the Left Bank. One directly faces the street (amateurs)! The other, pictured here, has an outer and inner door. Warning! The security guard will look put out if you try to open the inner door yourself: so act like you’re too posh to open your own doors instead, and everyone will feel more comfortable. I thought they only did that at Gagosian?
+This gallery has two locations on the Left Bank. One directly faces the street (amateurs)! The other, pictured here, has an outer and inner door. Warning! The security guard will look put out if you try to open the inner door yourself: so act like you’re too posh to open your own doors instead, and everyone will feel more comfortable. Half a bonus point for having a smoking gallerist in a complicated scarf lurking outside the door, when I took this photo at least.
 
 ### Max Hetzler
 
 ![a parisian gallery entrance](/media/gallery-entrances-6.jpg)
 
-The photo above is deceptive! The doorway in front of us is the one to the street - standard. But, behind the photographer, there are two further doors into the gallery. One push, one pull. One buzzer, one no buzzer. The last couple of times I’ve been here, they have been doing some building works, so the room between doors two and three has been dingy and unlit. This has clearly caused so much confusion that somebody at the gallery has sellotaped instructions on how to get out of the outer door: a remarkably rare concession to making it *easier* to get inside! Not that you can read them very easily in the gloom though.
+The photo above is deceptive! The doorway in front of me is the one leading back to the street - standard. But, behind me, there are two further doors into the gallery. One push, one pull. One buzzer, one no buzzer. The last couple of times I’ve been here, they have been doing some building works, so the room between doors two and three has been dingy and unlit. This has clearly caused so much confusion that somebody at the gallery has sellotaped instructions on how to get out of the outer door: a remarkably rare concession to making things *easier*. Not that you can read them very easily in the gloom, though.
 
 ### Gaudel de Stampa
 
@@ -82,7 +84,7 @@ This whole scene is adorable: the gallery is the grey-black building on the left
 
 ![a parisian gallery entrance](/media/gallery-entrances-10.jpg)
 
-High on the list despite being open to the street because of a) its aggressively truncated opening hours and b) the murderous staircase to its basement, which requires the visitor to have both an excellent sense of balance and considerable calf strength. I think my ratio of visits during opening hours, according to the gallery's listing Google Maps, and the gallery actually being open, is about one in four.
+High on the list despite being open to the street because of a) its aggressively truncated opening hours and b) the murderous staircase to its basement, which requires the visitor to have both an excellent sense of balance and considerable calf strength. I think my ratio of visits during opening hours, according to the gallery's listing on Google Maps, and the gallery actually being open, is about one in four.
 
 ### Marian Goodman
 
