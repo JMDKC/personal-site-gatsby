@@ -1,5 +1,5 @@
 ---
-title: 11 Gallery Entrances in Paris
+title: 11 gallery entrances in Paris
 date: "2020-07-17"
 template: "post"
 draft: false
