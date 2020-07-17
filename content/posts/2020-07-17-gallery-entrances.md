@@ -82,7 +82,7 @@ This one is adorable: it’s the grey-black building on the left. Buzzer to shar
 
 ![a parisian gallery entrance](/media/gallery-entrances-10.jpg)
 
-High on the list despite being open to the street because of a) its aggressively truncated opening hours and b) its murderous staircase to the basement, which requires excellence both in the visitor’s sense of balance and their calf strength	. I think my ratio of visits during opening hours, according to Google Maps, and the gallery actually being open is about one in four.
+High on the list despite being open to the street because of a) its aggressively truncated opening hours and b) its murderous staircase to the basement, which requires excellence both in the visitor’s sense of balance and their calf strength. I think my ratio of visits during opening hours, according to Google Maps, and the gallery actually being open is about one in four.
 
 ### Marian Goodman
 
