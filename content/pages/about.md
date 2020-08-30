@@ -6,7 +6,7 @@ slug: "/about"
 
 ![it me](/media/headshot.jpg)
 
-I work in digital delivery at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company. More specifically, I run the agile ceremonies, manage the backlog and organise the technical documentation for several digital teams.
+I'm a [certified Scrum Master](/media/josephclift_PSMI_certificate.pdf), currently working in digital delivery at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company. More specifically, I run the agile ceremonies for two Scrum teams working in the company's Subscriptions business.
 
 Previously, as a Product Manager at WARC I researched and wrote the [Future of Strategy report](/media/future-of-strategy.pdf), a deep dive into one of advertising’s most important but least-understood disciplines.
 
