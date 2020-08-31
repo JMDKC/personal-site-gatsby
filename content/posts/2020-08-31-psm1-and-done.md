@@ -16,7 +16,7 @@ So it’s done. After several weeks of reading a [19-page PDF file](https://www.
 
 I’d have thought that would have come from the day job, where I work on two Scrum teams, but studying for the PSM1 Scrum Master certification actually underlined how little I knew about the guidelines of this process. Sorry, that should be more properly: the rules, roles, events and artefacts of this empirical framework.
 
-![the scrum framework](/media/psm1-1.jpg)
+![the scrum framework](/media/psm1-and-done-1.jpg)
 *The Scrum Framework*
 
 I passed pretty comfortably in the end, but found the 60-minute exam on scrum.org quite nerve-wracking, especially as the $150 fee I’d paid to take it is non-refundable, and is only good for one try. (I thought .org was for non-profit making companies?)
@@ -63,7 +63,7 @@ The prevailing theme of the Scrum guide is that Scrum is a total methodology for
 
 That’s just about feasible within a single team - covered by the Scrum Guide. But, when you add Nexus in…? We’re in fantasy land, in my view. Look at the insane amount of meeting-based infrastructure in the Heath Robinson-esque diagram below. Particularly absurd is that the individual Scrum teams themselves are expected to function according to the Scrum Guide, and groom their own backlogs. When you layer in the Nexus backlog, Nexus sprints, and planning, and retrospective… to quote YouTube legend Sweet Brown, [ain’t nobody got time for that](https://www.youtube.com/watch?v=ydmPh4MXT3g).
 
-![the nexus framework](/media/psm1-2.jpg)
+![the nexus framework](/media/psm1-and-done-2.jpg)
 *The Nexus Framework*
 
 How many organisations are close to achieving Nexus nirvana? Certainly fewer than the number of users who actually take and pass this exam. 
