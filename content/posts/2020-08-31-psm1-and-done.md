@@ -71,5 +71,3 @@ How many organisations are close to achieving Nexus nirvana? Certainly fewer tha
 So yes, I’m not implementing all of what I learned in the exam in my day job. Which sucks in a way, but also makes me question the idea that if you are not following Scrum to the letter, you’re not doing Scrum. Particularly as the Scrum Guide itself has been revised over the years, and the Nexus guide was added at a much later date, I assume in response to criticism that the original guide wasn’t really applicable at org level.
 
 So in other words, none of us is perfect, and we are all on a journey to improve. No totalising framework can govern how we get things done, but it can provide some useful guidance along the way. With that in mind, I’m happy I took the exam. Because it’s definitely helped me improve. And hopefully the personal payback for me will be worth well north of $150!
-
-#personalsite/drafts
