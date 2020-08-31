@@ -4,10 +4,10 @@ date: "2018-08-07"
 template: "post"
 draft: false
 slug: "/writing/132-days-of-duolingo"
-category: "Tech"
+category: "Technology"
 tags:
   - "Personal"
-  - "Tech"
+  - "Technology"
 description: "I spend around 10 minutes a day on Duolingo and I’m not convinced it’s worth it. And the fact these doubts only started occurring to me after I completed a 100 day streak on this maddeningly well-designed and moreish app is… annoying."
 ---
 
