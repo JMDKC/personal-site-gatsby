@@ -12,7 +12,7 @@ tags:
 description: "I got certified as a Scrum Master, and I have some thoughts on how I got there."
 ---
 
-So it’s done. After several weeks of reading a [19-page PDF file](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) over and over, taking practice tests and reading countless blog posts, you can now, officially, call me master. Scrum Master. I got certified!
+So it’s done. After several weeks of reading a [19-page PDF file](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) over and over, taking practice tests and reading countless blog posts, you can now, officially, call me master. Scrum Master. [I got certified](https://josephclift.com/media/josephclift_PSMI_certificate.pdf)!
 
 I’d have thought that would have come from the day job, where I work on two Scrum teams, but studying for the PSM1 Scrum Master certification actually underlined how little I knew about the guidelines of this process. Sorry, that should be more properly: the rules, roles, events and artefacts of this empirical framework.
 
