@@ -70,7 +70,7 @@ This one directly faces the Seine on the Left Bank, and is in a shared building 
 
 ![a parisian gallery entrance](/media/gallery-entrances-8.jpg)
 
-This intensely show-off gallery is a bit lower-key in its Paris Marais location than it is in London (where I once bumped into Victoria Beckham, who has a shop next door, and looked at me like she’d quite like to have me killed). Note there are two doors, but zero doorbells *and* a wheelchair ramp. Don’t get too comfortable though, that door is going to SLAM behind you if you don’t cushion it, and you’ll get a Posh-level dirty look from behind the reception desk.
+This intensely show-off gallery is a bit lower-key in its Paris Marais location than it is in London (where I once bumped into Victoria Beckham, who looked at me after I did so as if she’d quite like to have me killed). Note there are two doors, but zero doorbells *and* a wheelchair ramp. Don’t get too comfortable though, that door is going to SLAM behind you if you don’t cushion it, and you’ll get a Posh-level dirty look from behind the reception desk.
 
 ### Galerie Frank Elbaz
 
@@ -90,4 +90,4 @@ High on the list despite being open to the street because of a) its aggressively
 
 This door, this door! I’m calling it: this one is the final boss of Parisian gallery entrances, because the potential embarrassment factor, combined with difficulty of entrance, is so high. Look closely at the left-hand wooden door in the picture above. There’s a small wooden door-within-the-door, that needs a twist of the handle and hefty push to get in, assuming the gallerist inside has bothered to buzz you. You’ll forget that you need to pull it by the time you come back outside. Extra bonus points for the entrance being on the very busy Rue du Temple, meaning you run the risk of gaining an amused audience if you need to buzz repeatedly or struggle with the door.
 
-But then, once inside, you can pat yourself on the back. You’ve made it, the final boss is defeated. Go and see some art! And maybe reflect on the fact that, if this really has been enough of a psychological burden that you might conceivably write a blog post about it in future then… you are blessedly unburdened. Asssuming nothing really bad happens, like a global pandemic.
+But then, once inside, you can pat yourself on the back. You’ve made it, the final boss is defeated. Go and see some art! And maybe reflect on the fact that, if this really has been enough of a psychological burden that you might conceivably write a blog post about it in future then… you are blessedly unburdened. Assuming nothing really bad happens, like a global pandemic.
