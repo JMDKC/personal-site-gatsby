@@ -4,7 +4,7 @@ template: "page"
 slug: "/about"
 ---
 
-![it me](/media/headshot.jpg)
+![joseph clift headshot](/media/headshot.jpg)
 
 I'm a [certified Scrum Master](/media/josephclift_PSMI_certificate.pdf), currently working in digital delivery at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company. More specifically, I run the agile ceremonies for two Scrum teams working in the company's Subscriptions business.
 
