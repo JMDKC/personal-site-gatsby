@@ -20,7 +20,7 @@ This contrast is implicitly drawn in the Agile Manifesto [and its associated pri
 These days, the comparison is often illustrated in a graph. You’ve probably seen it before, drawing the contrast between the sad linearity of Waterfall, crashing down a staircase of stress, and the sinuous, virtuous Agile loops. Here’s an example.
 
 ![waterfall vs agile graph](/media/waterfall-strawman-1.png)
-Source: Planview
+*Source: Planview*
 
 There are two problems with this very popular contrast.
 
@@ -93,12 +93,12 @@ While our managers cast us down the waterfall, sometimes we don’t need much pe
 
 ## A few conclusions
 So, now I know that:
-a) Agile is an attractive idea that’s reached maturity in the business world
-b) nobody ever liked Waterfall, including the person who popularised the concept 50 years ago
-c) Despite these intervening years, Waterfall is still instantly recognisable to people working on digital projects
-d) Many businesses have adopted Agile practices - the popular new thing - in a facile way, leaving the old way of doing stuff broadly unchallenged
-e) There are obviously loads of factors behind this being the case! But one major one is - our managers
-f) And, if we’re honest, we in digital teams also reinforce Waterfall ourselves. Because it’s superficially safer, and playing safe is hard wired into human nature.
+* Agile is an attractive idea that’s reached maturity in the business world
+* Nobody ever liked Waterfall, including the person who popularised the concept 50 years ago
+* Despite these intervening years, Waterfall is still instantly recognisable to people working on digital projects
+* Many businesses have adopted Agile practices - the popular new thing - in a facile way, leaving the old way of doing stuff broadly unchallenged
+* There are obviously loads of factors behind this being the case! But one major one is - our managers
+* And, if we’re honest, we in digital teams also reinforce Waterfall ourselves. Because it’s superficially safer, and playing safe is hard wired into human nature.
 
 That’s a tough set of truths to accept, as it means that being truly
 Agile, and working in a truly Agile environment will be a hard uphill battle for everyone. And that doing so will involve overriding some natural instincts, and persuading better-paid people to override theirs. Very often, it will be doomed to failure. Agile benefits may only be, as Taylor says, “tactical” - and maybe we should be happy with that.
