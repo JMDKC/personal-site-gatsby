@@ -19,7 +19,7 @@ This contrast is implicitly drawn in the Agile Manifesto [and its associated pri
 
 These days, the comparison is often illustrated in a graph. You’ve probably seen it before, drawing the contrast between the sad linearity of Waterfall, crashing down a staircase of stress, and the sinuous, virtuous Agile loops. Here’s an example.
 
-![waterfall vs agile graph](/waterfall-strawman-1.png)
+![waterfall vs agile graph](/media/waterfall-strawman-1.png)
 Source: Planview
 
 There are two problems with this very popular contrast.
@@ -37,7 +37,7 @@ So, what was the source of the Waterfall? The classic graph - but not, interesti
 
 Royce is up front about the opinionated nature of the paper in his introduction: “I have become prejudiced by my experiences, and I am going to relate some of these prejudices in this presentation,” he states. First up, here’s the *original* waterfall graph, from requirements-setting (top left) to delivery (bottom right).
 
-![royce waterfall chart](/waterfall-strawman-2.png)
+![royce waterfall chart](/media/waterfall-strawman-2.png)
 
 You’d expect the inventor of Waterfall to hold this up as the right way of doing things, wouldn’t you? You’d be wrong. “The implementation described above is risky and invites failure,” Royce states, baldly. “The … method has never worked on large software development efforts and the costs to recover far exceeded those required”.
 
@@ -63,7 +63,7 @@ Another ‘Agile’ benefit of prototyping early? Getting user feedback, early:
 
 As well as the original Waterfall graph, Royce gives us an alternative one for his preferred way of doing things. These sinuous Agile loops are just about discernible at various stages in the process, building in ‘review’ stages along the way.
 
-![royce agile chart](/waterfall-strawman-3.png)
+![royce agile chart](/media/waterfall-strawman-3.png)
 
 We’re not quite Agile yet, but that’s more due to the technology available to Royce, 50 years ago. He is still tied to a single ‘OPERATIONS’ (or final release or delivery) and iterative improvements *after* release just isn’t a thing.
 
