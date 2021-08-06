@@ -72,9 +72,9 @@ Royce is stuck in the Waterfall, dreaming of escape.
 
 
 ## If nobody likes Waterfall, why are we still doing it?
-Technological constraints trapped Royce and his contemporaries in the Waterfall. Why then - in a world of CI/CD, well-established delivery frameworks like Scrum, and the McKinseys of the world having their own Agile units - do so many of us still feel that way?
+Technological constraints trapped Royce and his contemporaries in the Waterfall. Why then - in a world of CI/CD, well-established delivery frameworks like Scrum, and the McKinseys of the world having their own Agile units - do so many of us in digital delivery still feel that way?
 
-I’m firmly convinced that Waterfall as a concept retains such power, even as a strawman, because we see that way of working again and again in our working lives. We live the reality of business stakeholders bringing solutions to rather than problems, working on fixed requirements ahead of development, being HIPPO’d (that’d be ‘highest paid person’s opinion’) rather than building according to user needs, and being tied to stressful and error prone huge releases.
+I’m firmly convinced that Waterfall as a concept retains such power, even as a strawman, because we see that way of working again and again in our working lives. We live the reality of business stakeholders bringing solutions to us rather than problems, working on fixed requirements ahead of development, being HIPPO’d (that’d be ‘highest paid person’s opinion’) rather than building according to user needs, and being tied to stressful and error prone huge releases.
 
 Taylor is scathing on this point:
 
@@ -84,9 +84,9 @@ And he doesn’t have much hope that Agile can save us from this reality, becaus
 
 > Failures to implement Agile principles are often easily diagnosed as side effects of the constraints of antiquated procurement and contracting practices.  
 
-It follows therefore that in order for projects to be Agile, they need to be delivered in an Agile organisation. For an organisation to be Agile, it follows that each unit follows these principles. That would include very un-Agile functions like procurement and drawing up contracts. And at that point, many of us (me included) throw our hands up in defeat, because there are many reasons why these units are not Agile. Who on earth wants to release an MVP legal contract which we all iterate on, after all? (Though the retro on that would at least be very interesting…)
+It follows therefore that in order for projects to be Agile, they need to be delivered in an Agile organisation. For an organisation to be Agile, it follows that each unit follows these principles. That would include very un-Agile functions like procurement and drawing up contracts. And there are many great reasons why these units are not Agile. Who on earth wants to release an MVP legal contract which we all iterate on, after all? Though the retro on that would at least be very interesting…
 
-I think that Taylor’s placing the blame for the pervasiveness of Waterfall thinking mainly on managers is fair enough, but also lets people lower down the chain off the hook. I find in my job as an agile delivery manager (let’s face it, another term for project manager) I constantly find myself coming up against my own ‘waterfall thinking’, whether it’s pushing for more potentially unnecessary documentation, advocating larger but later releases, or, afraid of a looming deadline, supporting the cutting back on prototyping and user research. All of which is impelled by the need to get through the day-to-day hurly burly of working life, even if it stores up problems for the future.
+I think that Taylor’s placing the blame for the pervasiveness of Waterfall thinking mainly on managers is fair enough, but also lets people lower down the chain off the hook. I find in my job as an agile delivery manager (let’s face it, another term for project manager) I constantly find myself coming up against my own ‘waterfall thinking’, whether it’s in pushing for more potentially unnecessary documentation, advocating larger but later releases, or, afraid of a looming deadline, supporting the cutting back on prototyping and user research. All of which is impelled by the need to get through the day-to-day hurly burly of working life, even if it stores up problems for the future.
 
 While our managers cast us down the waterfall, sometimes we don’t need much persuasion to jump. Sometimes we jump ourselves. While Agile rationally makes sense as a better way of doing things, it’s much easier to talk about in the abstract rather than just *do*. While Waterfall, when you take a step back and think rationally, causes a whole lot of problems, when you're in the thick of things it makes instinctive sense - for us and our managers.
 
@@ -96,8 +96,8 @@ So, now I know that:
 * Nobody ever liked Waterfall, including the person who popularised the concept 50 years ago
 * Despite these intervening years, Waterfall is still instantly recognisable to people working on digital projects
 * There are obviously loads of factors behind this being the case! But one major one is - our managers
-* And, if we’re honest, we in digital teams also reinforce Waterfall thinking ourselves. Because it’s hard wired into human nature.
+* And, if we’re honest, we in digital teams also reinforce Waterfall thinking ourselves.
 
 That’s a tough set of truths to accept, as it means that being truly Agile, and working in a truly Agile environment will be a hard uphill battle for everyone. And that doing so will involve overriding some natural instincts, and persuading better-paid people to override theirs. Very often, it will be doomed to failure. Agile benefits may only be, as Taylor says, “tactical” - and maybe we should be happy with that.
 
-A more achievable conclusion for me is - the next time I see one of those graphs with the bad old Waterfall staircase on the left, and the nice new Agile loops on the right - I’ll give it an eye roll. The easy dichotomy is not so easy. It’s not a comparison of competing ideologies. It’s a battle between our instincts and our rational brain!
+A more achievable conclusion for me is - the next time I see one of those graphs with the bad old Waterfall staircase on the left, and the nice new Agile loops on the right - I’ll give it an eye roll. The easy dichotomy is not so easy. It’s not a comparison of competing ideologies. I’d argue it's a battle between our instincts and our rational brain!
