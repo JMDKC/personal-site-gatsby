@@ -6,11 +6,11 @@ slug: "/about"
 
 ![joseph clift headshot](/media/headshot.jpg)
 
-I'm a [certified Scrum Master](/media/josephclift_PSMI_certificate.pdf), currently working in digital delivery at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company. More specifically, I run the agile ceremonies for two Scrum teams working in the company's Subscriptions business.
+I'm a [certified Scrum Master](/media/josephclift_PSMI_certificate.pdf), currently working in digital delivery at [Which?](https://which.co.uk), the UK's consumer champion.
 
-Previously, as a Product Manager at WARC I researched and wrote the [Future of Strategy report](/media/future-of-strategy.pdf), a deep dive into one of advertising’s most important but least-understood disciplines.
+Previously, I worked at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company.
 
-I also led development on the WARC 100, [now WARC Rankings](https://www.warc.com/rankings), one of the industry’s most widely-known ranking and benchmarking products.
+With live events hammered by the global pandemic, I helped guide the [Cannes Lions festival](https://canneslions.com), aka the Oscars of advertising, to its most successful ever digital activation. Before that, I led development on the WARC 100, [now WARC Rankings](https://www.warc.com/rankings), one of the industry’s most widely-known ranking and benchmarking products.
 
 I started on my - far from complete - journey to Agile via General Assembly, having previously worked as a financial journalist.
 
