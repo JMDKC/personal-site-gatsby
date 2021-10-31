@@ -4,6 +4,20 @@ template: "page"
 slug: "/projects"
 ---
 
+###Lions Live
+
+![lions live homepage](/media/projects-lionslive-1.jpg)
+
+The [Cannes Lions Festival of Creativity](https://canneslions.com) is known as the Oscars of advertising. Every year in normal times, thousands of people descend on the French Riviera to network, learn from each other and celebrate the best creative work. All of which couldn't happen in 2020 and 2021, thanks to the global COVID pandemic.
+
+So the Lions organisation needed to switch the awards and Festival online, at short notice. It also needed to fulfil its broader corporate strategy of making its revenues less seasonal: around 45,000 awards entries are received each year, costing north of $1,000 in entry fees each. And crucial pillars of that strategy are [Love the Work](https://lovethework.com), Lions' subscription website, and a new initiative for 2021, an exclusive Membership offering for winners.
+
+I worked with a cross-disciplinary team - including front end and back end devs, CRM specialists, the marketing team and business stakeholders, to deliver these projects on time. We worked to the hardest of deadlines, given that the online Festival, and awards, could hardly be delayed!
+
+Coordinating between different teams, we spun up a Kanban project at extremely short notice and delivered on time - and with style. Results were outstanding, with a 918% uplift on pageviews and a 467% on users. People who took a free membership offer also successfully converted to Love the Work subscribers, with six figures worth of annual deals booked within weeks of the festival.
+
+This project helped set Lions on the road to a more sustainable and predictable year-round revenue model - pandemic be damned!
+
 ###Future of Strategy
 
 ![future of strategy](/media/projects-fos.jpg)
