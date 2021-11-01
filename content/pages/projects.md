@@ -6,7 +6,7 @@ slug: "/projects"
 
 ###Lions Live
 
-![lions live homepage](/media/projects-lionslive-1.jpg)
+![lions live homepage](/media/projects-lionslive-1.png)
 
 The [Cannes Lions Festival of Creativity](https://canneslions.com) is known as the Oscars of advertising. Every year in normal times, thousands of people descend on the French Riviera to network, learn from each other and celebrate the best creative work. All of which couldn't happen in 2020 and 2021, thanks to the global COVID pandemic.
 
