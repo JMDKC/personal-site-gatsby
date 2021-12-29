@@ -24,7 +24,7 @@ These days, the comparison is often illustrated in a graph. You’ve probably se
 
 But there are two problems with this very popular contrast.
 
-First problem: far from being an upstart, Agile is nothing new. And it's near universally (even if often superficially) advocated by the most traditional project management behemoths. When McKinsey is [running its own “agile business units”](https://medium.com/@scotty.middleton/agile-is-dead-mckinsey-just-killed-it-547df8c6c9df?source=email-6374e4b61ef7-1627521385081-digest.reader-f6b05f5c9120-547df8c6c9df----1-71------------------1f20ae93_117e_44a0_bc4b_8641210d99ec-27-1a86e2b3_3b7a_45c3_9ba3_d414a62d9f15), you know it's game over. The Agile Manifesto was drawn up 20 years ago. And concepts in the Manifesto [have been established business practices for decades](https://www.red-gate.com/blog/database-devops/real-origins-agile-manifesto) before it was written up in the first place.
+First problem: far from being an upstart, Agile is nothing new. And it's near universally (even if often superficially) advocated by the most traditional project management behemoths. When McKinsey is [running its own “agile business units”](https://medium.com/@scotty.middleton/agile-is-dead-mckinsey-just-killed-it-547df8c6c9df?source=email-6374e4b61ef7-1627521385081-digest.reader-f6b05f5c9120-547df8c6c9df----1-71------------------1f20ae93_117e_44a0_bc4b_8641210d99ec-27-1a86e2b3_3b7a_45c3_9ba3_d414a62d9f15), you know it's game over. The Agile Manifesto was drawn up 20 years ago. And concepts in the Manifesto [had been established business practices for decades](https://www.red-gate.com/blog/database-devops/real-origins-agile-manifesto) before it was written up in the first place.
 
 The second problem is more surprising. The contrast between Waterfall and Agile pre-supposes a conflict between two different ways of doing things. It follows that each ‘side’ has a set of advocates or fans. If that’s the case, though, where are the people who speak up for Waterfall? Has anybody, ever?
 
@@ -61,11 +61,11 @@ Another ‘Agile’ benefit of prototyping early? We get user feedback, early:
 
 > What a software design is going to do is subject to wide interpretation even after previous agreement. It is important to involve the customer in a formal way so that he has committed himself at earlier points before final delivery. To give the contractor free rein between requirement definition and operation is inviting trouble… the insight, judgment, and commitment of the customer can bolster the development effort.   
 
-Towards the end of the paper, Royce gives us an alternative graph for his preferred way of doing things. Put crudely, it's a waterfall graphs with some Agile loops built in.
+Towards the end of the paper, Royce gives us an alternative graph for his preferred way of doing things. Put crudely, it's a waterfall graph with some Agile loops built in.
 
 ![royce agile chart](/media/waterfall-strawman-3.png)
 
-We’re not quite Agile yet, but that’s more due to the technology available to Royce, 50 years ago, than due to any attachment to the Waterfall model. Engineers and managers in 1970, working on physical hardware or software, were still tied to a single ‘OPERATIONS’ (or final delivery), meaning that development schedules were more linear.
+We’re not quite Agile yet, but that’s more due to the technology constraints affecting Royce and his peers, 50 years ago. Engineers and managers in 1970, working on physical hardware or software, were still tied to a single ‘OPERATIONS’ (or final delivery), meaning that development schedules were more linear.
 Hence the downwards slope, from top left to bottom right.
 
 Royce is stuck in the Waterfall, dreaming of escape.
@@ -88,7 +88,7 @@ It follows therefore that in order for projects to be Agile, they need to be del
 
 I think that Taylor’s placing the blame for the pervasiveness of Waterfall thinking mainly on managers is fair enough, but also lets people lower down the chain off the hook. I find in my job as an agile delivery manager (let’s face it, another term for project manager) I constantly find myself coming up against my own ‘waterfall thinking’, whether it’s in pushing for more potentially unnecessary documentation, advocating larger but later releases, or, afraid of a looming deadline, supporting the cutting back on prototyping and user research. All of which is impelled by the need to get through the day-to-day hurly burly of working life, even if it stores up problems for the future.
 
-While our managers cast us down the waterfall, sometimes we don’t need much persuasion to jump. Sometimes we jump ourselves. While Agile rationally makes sense as a better way of doing things, it’s much easier to talk about in the abstract rather than just *do*. While Waterfall, when you take a step back and think rationally, causes a whole lot of problems, when you're in the thick of things it makes instinctive sense - for us and our managers.
+While our managers cast us down the waterfall, sometimes we don’t need much persuasion to jump. Sometimes we jump ourselves. While Agile rationally makes sense as a better way of doing things, it’s much easier to talk about in the abstract rather than just *do*. While Waterfall, when you take a step back and think rationally, causes a whole lot of problems, but when you're in the thick of things it makes instinctive sense - for us and our managers.
 
 ## A few conclusions
 So, now I know that:
@@ -100,4 +100,4 @@ So, now I know that:
 
 That’s a tough set of truths to accept, as it means that being truly Agile, and working in a truly Agile environment will be a hard uphill battle for everyone. And that doing so will involve overriding some natural instincts, and persuading better-paid people to override theirs. Very often, it will be doomed to failure. Agile benefits may only be, as Taylor says, “tactical” - and maybe we should be happy with that.
 
-A more achievable conclusion for me is - the next time I see one of those graphs with the bad old Waterfall staircase on the left, and the nice new Agile loops on the right - I’ll give it an eye roll. The easy dichotomy is not so easy. It’s not a comparison of competing ideologies. I’d argue it's a battle between our instincts and our rational brain!
+A more achievable conclusion for me is - the next time I see one of those graphs with the bad old Waterfall staircase on the left, and the nice new Agile loops on the right - I’ll give it an eye roll. The easy dichotomy is not so easy. It’s not a comparison of competing ideologies. I’d argue it depicts a battle many of us are fighting, between our instincts and our rational brain!
