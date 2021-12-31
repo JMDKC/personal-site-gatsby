@@ -8,7 +8,7 @@ category: "Personal"
 tags:
   - "Personal"
   - "Productivity"
-description: "How and why I went on an eco-friendly cleaning journey"
+description: "The how and the why of my eco-friendly cleaning journey."
 ---
 
 I made some changes to the way I clean my flat a couple of months back: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s cleaner than before, I’ll save money over the long term and I’m being more eco friendly.
@@ -24,7 +24,7 @@ Second, a stainless steel cleaner. This was the cleaning potion that broke the c
 
 I tried this particular potion, not expecting miracles, and noting the severe overlap in utility with Viakal, my previous ‘go to’ for cleaning metal shiny bits. The effect was pretty disappointing. I slotted it in place in my cleaning cupboard, and wondered if some kind of obscure con had been perpetrated on me, that I felt I *had* to spend a fiver on yet another specialist-use potion that didn’t do anything that… special?
 
-![My highly un-eco-friendly cleaning cupboard before I started, including washing tabs, fabric cleaner, wood floor cleaner](/media/clean-cleaning-1.jpeg)
+![My highly un-eco-friendly cleaning cupboard before I started, including washing tabs, fabric cleaner, wood floor cleaner](/media/clean-cleaning-1.jpg)
 *My highly un-eco-friendly cleaning cupboard before I started, including washing tabs, fabric cleaner, wood floor cleaner…*
 
 Third - having felt conned, I took a newly-critical view on the place where the con artists hang out, Instagram! I’d been following various cleaning accounts on there, and was getting a bit turned off by the relentless shilling of new products, all accompanied with an affiliate link and a minuscule #adaff hashtag. Yes this is a slam of the P&G sponsored Instagrammer Mrs Hinch and her ilk! These "cleanfluencers" get paid via affiliate links to cleaning products, which naturally means they're going to promote ever more exotic potions and solutions, when actually going back to basics would do the job just as well, for far less environmental and financial impact.
@@ -53,7 +53,7 @@ The standalones can all be bought in most supermarkets. You can buy direct via D
 
 My big Amazon shop for ingredients and storage was as follows:
 
-![My cleaning haul from Amazon](/media/clean-cleaning-2.jpeg)
+![My cleaning haul from Amazon](/media/clean-cleaning-2.jpg)
 *Some of the haul. I bought wire wool and toothbrushes too - but didn’t include it in the list.*
 
 * [Measuring scoops](https://www.amazon.co.uk/gp/product/B0071QMYZA/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1), mainly for doling out the soda crystals and getting accurate measures for making the products, but I’ll use them in the kitchen longer term too.
@@ -68,7 +68,7 @@ My big Amazon shop for ingredients and storage was as follows:
 * [Essential oil](https://www.amazon.co.uk/gp/product/B00QQOERJE/ref=ppx_yo_dt_b_asin_title_o08_s04?ie=UTF8&psc=1) that smells nice - I chose lavender. The purpose of this ingredient is solely to make the products smell nice when applied rather than due to any inherent cleaning properties, and because if you use vinegar it tends to have a chip shop tang.
 * [Sodium percarbonate](https://www.amazon.co.uk/gp/product/B07RCZMMQ7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) - aka ‘green bleach’, an alternative to chlorine bleach which is pretty much one of the most toxic substances known to man! Warning: this could be labelled as a bunch of different things (mine was called “home brew beer wine cleaner sanitiser”) so you need to make sure the active ingredient is correct.
 
-![A pack of sodium percarbonate](/media/clean-cleaning-3.jpeg)
+![A pack of sodium percarbonate](/media/clean-cleaning-3.jpg)
 *My sodium per carbonate came vacuum-packed, from ‘biggerjugs.co.uk’*
 
 I spent just over £100 (mainly on the Amazon shop) on the above, plus £10 for Nancy’s book.
@@ -88,7 +88,7 @@ A couple of months down the line, I’ve also got a rough idea of how long each 
 ## Step 3 - make stuff
 Following my big Amazon shop, I had six brown glass bottles to work with, and six recipes from Nancy’s book that I felt I’d use the most. I blocked out an afternoon to mix everything up, which was way too generous, as I was actually done in an hour or so.
 
-![Ingredients for my self-mixed cleaning products](/media/clean-cleaning-5.jpeg)
+![Ingredients for my self-mixed cleaning products](/media/clean-cleaning-5.jpg)
 
 I made:
 * All purpose cleaner
@@ -187,7 +187,7 @@ While I’m pretty much on easy street for cleaning stuff in most respects - liv
 
 Left alone, a gross crust quickly forms wherever water hits: around taps, on shower screens, in the tub. I’ve used two products quite successfully to deal with this. First, I generally have a bag of lemons in my weekly shop - and tie used halves to taps with a microfibre cloth for a few hours every couple of weeks or so.
 
-![Using a lemon to descale a tap](/media/clean-cleaning-9.jpeg)
+![Using a lemon to descale a tap](/media/clean-cleaning-9.jpg)
 
 Once untied a satisfying amount of scale flakes off when you wipe the tap head with the cloth.
 
