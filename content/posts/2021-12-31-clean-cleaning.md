@@ -13,12 +13,18 @@ description: "The how and the why of my eco-friendly cleaning journey."
 
 I made some changes to the way I clean my flat a couple of months back: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s cleaner than before, I’ll save money over the long term and I’m being more eco friendly.
 
-I haven’t looked back from making the change - and would recommend anyone reading to do the same in the new year. That’s why I wrote this post.
+There were four steps on this journey: buy products and ingredients, set a schedule, make the products, start cleaning!
+
+While success varied from product to product, I haven’t looked back from making the change - and would recommend anyone reading to do the same in the new year. That’s why I wrote this post.
 
 ## Why I did it
 Three big things set me on my eco cleaning journey.
 
-First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that offers a bunch of different ‘traditional cleaning’ products, that promise a more eco friendly way of getting household chores done. This led me to Dri-Pak’s (delightful) website, which is [loaded with how-tos](https://www.dri-pak.co.uk/about/).
+First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that offers a bunch of different ‘traditional cleaning’ products, that promise a more eco friendly way of getting household chores done.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ O.k, o.k, o.k...listen up! I&#39;m about to tell you why <a href="https://twitter.com/DriPak?ref_src=twsrc%5Etfw">@DriPak</a>, the little-known, family-run company based in Derbyshire, might just be the best business in the known universe... <a href="https://t.co/oBtjyminxR">pic.twitter.com/oBtjyminxR</a></p>&mdash; Jon Burke FRSA (@jonburkeUK) <a href="https://twitter.com/jonburkeUK/status/1079531591263768576?ref_src=twsrc%5Etfw">December 31, 2018</a></blockquote>
+
+This led me to Dri-Pak’s (delightful) website, which is [loaded with how-tos](https://www.dri-pak.co.uk/about/).
 
 Second, a stainless steel cleaner. This was the cleaning potion that broke the camel’s back, if I’m allowed to mix metaphors. I’d bought it at a Lakeside outlet near me over the summer, tempted as ever by the cool bottle. I’d been living in my own place for a year or so, and, being an obsessive neat freak, had accumulated an arsenal of brightly-coloured, highly specialised and quite expensive cleaning bottles and potions.
 
