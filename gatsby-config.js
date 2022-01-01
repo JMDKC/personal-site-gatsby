@@ -114,6 +114,7 @@ module.exports = {
       }
     },
     'gatsby-transformer-sharp',
+    `gatsby-plugin-twitter`,
     'gatsby-plugin-sharp',
     'gatsby-plugin-netlify',
     //{
