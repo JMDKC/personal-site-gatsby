@@ -20,16 +20,18 @@ Three big things set me on my eco cleaning journey.
 
 First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that offers a bunch of different ‘traditional cleaning’ products, that promise a more eco friendly way of getting household chores done. This led me to Dri-Pak’s (delightful) website, which is [loaded with how-tos](https://www.dri-pak.co.uk/about/).
 
-Second, a stainless steel cleaner. This was the cleaning potion that broke the camel’s back, if I’m allowed to mix metaphors. I’d bought it at Lakeside, tempted by the cool bottle. I’d been living in my own place for a year or so, and, being an obsessive neat freak, had accumulated an arsenal of brightly-coloured, highly specialised and quite expensive bottles and potions.
+Second, a stainless steel cleaner. This was the cleaning potion that broke the camel’s back, if I’m allowed to mix metaphors. I’d bought it at a Lakeside outlet near me over the summer, tempted as ever by the cool bottle. I’d been living in my own place for a year or so, and, being an obsessive neat freak, had accumulated an arsenal of brightly-coloured, highly specialised and quite expensive cleaning bottles and potions.
 
-I tried this particular potion, not expecting miracles, and noting the severe overlap in utility with Viakal, my previous ‘go to’ for cleaning metal shiny bits. The effect was pretty disappointing. I slotted it in place in my cleaning cupboard, and wondered if some kind of obscure con had been perpetrated on me, that I felt I *had* to spend a fiver on yet another specialist-use potion that didn’t do anything that… special?
+I tried this particular product, not expecting miracles, and noting the severe overlap in utility with Viakal, my previous ‘go to’ for cleaning metal shiny bits. The effect was pretty disappointing. I slotted it in place in my cleaning cupboard, and wondered if some kind of obscure con had been perpetrated on me, that I felt I *had* to spend a fiver on yet another specialist-use potion that didn’t do anything that… special?
 
 ![My highly un-eco-friendly cleaning cupboard before I started, including washing tabs, fabric cleaner, wood floor cleaner](/media/clean-cleaning-1.jpg)
 *My highly un-eco-friendly cleaning cupboard before I started, including washing tabs, fabric cleaner, wood floor cleaner…*
 
-Third - having felt conned, I took a newly-critical view on the place where the con artists hang out, Instagram! I’d been following various cleaning accounts on there, and was getting a bit turned off by the relentless shilling of new products, all accompanied with an affiliate link and a minuscule #adaff hashtag. Yes this is a slam of the P&G sponsored Instagrammer Mrs Hinch and her ilk! These "cleanfluencers" get paid via affiliate links to cleaning products, which naturally means they're going to promote ever more exotic potions and solutions, when actually going back to basics would do the job just as well, for far less environmental and financial impact.
+Third - having felt conned, I took a newly-critical view on the place where the con artists hang out, Instagram! I’d been following various cleaning accounts on there, and was getting a bit turned off by the relentless shilling of new products, all accompanied with an affiliate link and a minuscule #adaff hashtag. Yes this is a slam of the [P&G sponsored Instagrammer Mrs Hinch and her ilk](https://www.thesun.co.uk/fabulous/15788979/move-over-mrs-hinch-cleanfluencers/)! These "cleanfluencers" get paid via affiliate links to cleaning products, which naturally means they're induced to promote ever more exotic potions and solutions, when actually going back to basics would do the job just as well, for far less environmental and financial impact.
 
-So when the excellent Michelle Ogundehin [posted about her own clean cleaning](https://www.instagram.com/michelleogundehin/?hl=en) journey on Instagram, I was a captive audience. Michelle - proudly blocked by Mrs Hinch - also linked to the magnum opus book *[Clean and Green](https://www.amazon.co.uk/Clean-Green-Hints-Tips-Eco-Friendly/dp/1529049725)* by Nancy Birtwhistle, which I ordered and devoured like a plump Belgian bun (Nancy won the Great British Bake Off a few years back, too). This book, which I'll be cribbing relentlessly from for the rest of this post, broke down eco cleaning, room by room, and also contains recipes for mixing your own products. Bye Lakeside, in other words.
+So when the excellent Michelle Ogundehin [posted about her own clean cleaning](https://www.instagram.com/michelleogundehin/?hl=en) journey on Instagram, I was a captive audience. Michelle - who's been blocked by Mrs Hinch after calling her out on shilling toxic products - also linked to the magnum opus book *[Clean and Green](https://www.amazon.co.uk/Clean-Green-Hints-Tips-Eco-Friendly/dp/1529049725)* by Nancy Birtwhistle as her main guide on her journey.
+
+I ordered and devoured this amazing book like a plump Belgian bun (Nancy won the Great British Bake Off a few years back, too). *Clean and Green*, which I'll be cribbing relentlessly from for the rest of this post, breaks down the what and the how of eco cleaning, room by room, and also contains recipes for mixing your own products.
 
 So, I’d done my research using Dri-Pak’s website, Michelle’s story highlights and, above all, Nancy’s book. I had a couple weeks off as I’d left my old job, before joining the new one. Time to draw up a plan of attack and took the plunge into eco cleaning.
 
@@ -37,14 +39,14 @@ So, I’d done my research using Dri-Pak’s website, Michelle’s story highlig
 Everything I write below comes with acknowledgement of the following facts, that I want you to know I’m conscious of:
 * I work sensible hours and make a decent wage, meaning that I had and have time to plan and execute a cleaning schedule, and the funds to spend the £80 or so I needed for the big up front shop.
 * I live alone in a 50 square metre flat in London. Which means I can be sure there’s nobody else around to move stuff, and there isn’t that much surface area to clean.
-* A lot of the information below will be ‘old news’ to any reader who’s cleaned a place for a while. But the information was enough of a revelation to me - who, as we’ve shown, had a primary cleaning info source of Instagram - that I thought it worth sharing with others.
+* A lot of the information below will be ‘old news’ to any reader who’s cleaned for a while. But the information was enough of a revelation to me the braindead Hinch follower that I thought it worth sharing with others.
 * While my cleaning is more eco friendly than before, I’m far from eco perfect. I order Deliveroo a lot. My groceries come wrapped in plastic. I’ll travel on a plane the moment COVID restrictions are relaxed and I have somewhere to go.
-* Particularly relevant to the laundry section below: 80% of my clothes are made of cotton and come from Uniqlo: I don’t have lacy, white or expensive clothes to worry about.
+* Particularly relevant to the laundry section below: 80% of my clothes are cheap (very un eco friendly fast fashion) and are made of cotton. I'm a pretty cheap laundry date in other words, with no lacy, white or expensive clothes to worry about.
 
 ## Step 1 - buy stuff
 The first step for the switchover for me was to buy what I needed: the ingredients to make my own cleaning products, some standalone products (all Dri-Pak), and some bottles to store and mark the products in.
 
-The standalones can all be bought in most supermarkets. You can buy direct via Dri-Pak if you want, or there are cheaper and slightly bulkier non-branded versions of exactly the same products [on sale at Wilko](https://www.wilko.com/en-uk/wilko-original-soda-crystals-15kg/p/0437761) . I went for convenience and ordered the lot as part of my weekly groceries shop, specifically:
+The standalones can all be bought in most supermarkets. You can buy direct via Dri-Pak if you want, or there are cheaper and slightly bulkier non-branded versions of exactly the same products [on sale at Wilko](https://www.wilko.com/en-uk/wilko-original-soda-crystals-15kg/p/0437761). I went for convenience and ordered the lot as part of my weekly groceries shop, specifically:
 * Several bags of [soda crystals](https://www.dri-pak.co.uk/cleaning-products/soda-crystals/) (the king of all cleaning products, loads of uses, explained below)
 * 1 bottle [white vinegar](https://www.dri-pak.co.uk/cleaning-products/white-vinegar/) (loads more uses, you can bulk-buy a nicer-smelling alternative [on Amazon](https://www.amazon.co.uk/Jocker-Woods-Cleaning-Pickling-Marinations/dp/B084WZ47MP)) that’s also a major component of a lot of the self-mixed products
 * 2 packs [liquid soap](https://www.dri-pak.co.uk/laundry-products/liquid-soap/) (laundry)
@@ -69,9 +71,9 @@ My big Amazon shop for ingredients and storage was as follows:
 * [Sodium percarbonate](https://www.amazon.co.uk/gp/product/B07RCZMMQ7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) - aka ‘green bleach’, an alternative to chlorine bleach which is pretty much one of the most toxic substances known to man! Warning: this could be labelled as a bunch of different things (mine was called “home brew beer wine cleaner sanitiser”) so you need to make sure the active ingredient is correct.
 
 ![A pack of sodium percarbonate](/media/clean-cleaning-3.jpg)
-*My sodium per carbonate came vacuum-packed, from ‘biggerjugs.co.uk’*
+*My sodium percarbonate came vacuum-packed, from ‘biggerjugs.co.uk’*
 
-I spent just over £100 (mainly on the Amazon shop) on the above, plus £10 for Nancy’s book.
+I spent just over £100 all in, mainly on the Amazon shop, and including the cost of Nancy’s book. You should buy it too, in case I haven't made that point clearly enough.
 
 ## Step 2 - organise a schedule
 I’m an avid user of to-do apps, with [Todoist](https://todoist.com/) still my tool of choice. Using recurring tasks in their own *Cleaning* category has helped me stick to a realistic schedule, and it’s especially handy for splitting out weekly tasks - for example, cleaning bathroom surfaces - from less frequent tasks like descaling the kettle.
@@ -89,11 +91,12 @@ A couple of months down the line, I’ve also got a rough idea of how long each 
 Following my big Amazon shop, I had six brown glass bottles to work with, and six recipes from Nancy’s book that I felt I’d use the most. I blocked out an afternoon to mix everything up, which was way too generous, as I was actually done in an hour or so.
 
 ![Ingredients for my self-mixed cleaning products](/media/clean-cleaning-5.jpg)
+*Prepping for mixing some products!*
 
 I made:
 * All purpose cleaner
 * Floor cleaner
-* ‘Toilet magic’ - tastefully rebranded as ‘Pure magic’ by Nancy on Instagram following the book’s release
+* ‘Toilet magic’ - later rebranded as ‘Pure magic’ by Nancy
 * Dishwasher detergent
 * Dishwasher rinse aid
 * Cream cleaner
@@ -109,7 +112,7 @@ New cleaning product in one hand, Nancy’s book in the other, I then tried… a
 
 The one change that has been the most dramatically successful, and the thing in Michelle’s stories that hooked me in to even starting this journey in the first place, has been with laundry.
 
-Previously, I used an Ariel washing tab and a glug of supermarket own brand fabric conditioner on my weekly laundry load. As everything was generally made of cotton, I washed on my machine’s pre-programmed 60 celsius ‘cotton’ wash, and then used the built in dryer for another couple of hours. My washing was generally stiff, brittle and had a chemical tang.
+Previously, I used an Ariel washing tab and a glug of supermarket own brand fabric conditioner on my weekly laundry load. As everything was generally made of cotton, I washed on my machine’s pre-programmed 60 celsius ‘cotton’ wash, and then used the built in dryer for another couple of hours. My washing was generally stiff, brittle and had a distinct whiff of chemicals.
 
 On Nancy and Michelle’s advice, my laundry is now odourless and soft. Each wash is massively cheaper and better for the environment. I go full Dri-Pak, using a single largish scoop of soda crystals (in the left hand compartment of the drawer) and a capful of liquid soap (in the drum). That’s it! The soda crystals soften the water - essential as I live in a hard water area - and the soap cleans the clothes.
 
@@ -202,11 +205,11 @@ This definitely leaves the odd smear if you don’t use a *different* dry cloth 
 
 ### Toilet cleaning
 
-The most brutal descaling job is in the toilet - and that’s where the big guns come out.
+The most brutal domestic descaling job is generally in the toilet - and that’s where the big guns come out.
 
 ![Toilet magic ingredients](/media/clean-cleaning-10.jpeg)
 
-As mentioned above, Nancy calls the concoction used for toilet cleaning ‘toilet magic’ in her book, but she’s since rebranded it to ‘pure magic’. This is both for a more generally appealing name, and also due to the fact that this more powerful potion has uses outside of the bathroom. She says you can use it on basically anything that the vinegar and water based all-purpose cleaner *hasn’t* worked on.
+As mentioned above, in *Clean and Green* Nancy calls the concoction she uses for toilet cleaning ‘toilet magic’. But she’s since rebranded it to ‘pure magic’. This is likely both due to the need for a more generally appealing name, but also because this powerful potion has uses outside of the u-bend. Nancy says you can use it on basically anything that the vinegar and water based all-purpose cleaner *hasn’t* worked on.
 
 To make it, mix:
 * 200g citric acid
@@ -216,19 +219,19 @@ Mix vigorously until the crystals are dissolved, then add 20ml of washing up liq
 
 I keep the bottle next to the toilet for a daily spray around the bowl. Citric acid is a more powerful acid than vinegar, so it’s extra-effective as a descaler. I have to say that from the smell, it’s powerful stuff, so make sure you’re not in the room for long after you spray.
 
-In line with [Dri-Pak’s advice](https://www.youtube.com/watch?v=la38ba5I7gs), I also give the toilet a weekly deep clean. Before I go out for the day (important as you need to leave the toilet this way for a couple of hours), I roughly half a pack of citric acid down there, followed by boiling water from a kettle. Lower the lid to seal in the steam and activate the acid.
+In line with [Dri-Pak’s advice](https://www.youtube.com/watch?v=la38ba5I7gs), I also give the toilet a weekly deep clean. Before I go out for the day (important as you need to leave the toilet this way for a couple of hours), I pour roughly half a pack of citric acid down there, followed by boiling water from a kettle. Lower the lid to seal in the steam and activate the acid.
 
-When you’re back, give the bowl a good going-over with your brush. When I first did this, I was really taken aback by how effective it was - the hard encrusted limescale lurking in the u-bend shifted immediately, where chlorine bleach had only covered it up.
+When you’re back, give the bowl a good going-over with your brush. When I first did this, I was really taken aback by how effective it was - the super-gross hard encrusted limescale lurking in the u-bend and around the rim shifted immediately, where chlorine bleach had only temporarily covered it up.
 
 The bleach went into the cupboard straight away, and I haven’t had the need to use any since.
 
 ### Oven cleaning
 
-I’ve had a pack of Oven Mate in my flat for months now. Intended for cleaning the oven, the warnings on the package were so terrifying that I chickened out from actually using it, meaning my oven got impressively grimy.
+I’ve had a pack of Oven Mate in my flat for months now. The product's intended for cleaning the oven. But the warnings on the package were so terrifying that I chickened out from actually using it after buying. This in turn meant my oven got impressively grimy.
 
-(Did you know for example, that Oven Mate’s *[own safety information](https://www.dunelm.com/infodocs/msds/30069442-Oven-Mate-OVEN-CLEANING-GEL-5039295101005.pdf)* states that you should "drench the affected skin with running water for 10 minutes or longer" if any of the product comes into contact with you *and* recommends the use of “tightly fitting safety goggles" during use?
+(Did you know that Oven Mate’s *[own safety information](https://www.dunelm.com/infodocs/msds/30069442-Oven-Mate-OVEN-CLEANING-GEL-5039295101005.pdf)* states that you should "drench the affected skin with running water for 10 minutes or longer" if any of the product comes into contact with you *and* recommends the use of “tightly fitting safety goggles" during use?)
 
-So I used Dri-Pak’s Liquid Soda Crystals a few times instead (fuller instructions [here](https://www.dri-pak.co.uk/dreaded-task-oven-cleaning/)). Basically rubbing a significant part of a bottle into every nook and cranny of the oven, leaving for a couple of hours, then sponging it all out with water. I was pretty happy with the result, though I can’t pretend that it left the oven perfectly sparkling clean. A lot of caked-on grime around the metal sections on the top and the lightbulb didn’t shift. Then again, I didn’t need to put on a full hazmat suit to apply it, just a pair of rubber gloves!
+As a more eco and less scary alternative, I used Dri-Pak’s Liquid Soda Crystals a few times; fuller instructions are [here](https://www.dri-pak.co.uk/dreaded-task-oven-cleaning/). The process basically involved rubbing a significant part of a bottle into every nook and cranny of the oven, leaving for a couple of hours, then sponging it all out with water. I was pretty happy with the result, though I can’t pretend that it left the oven perfectly sparkling clean. A lot of caked-on grime around the metal sections on the top and the lightbulb didn’t shift. Then again, I didn’t need to put on a full hazmat suit to apply it, just a pair of rubber gloves!
 
 I had total success with cleaning my racks and baking trays though. Following a tip from Michelle’s Instagram, I ran a warm bath, dumped in several scoops of soda crystals, and left everything in overnight. My bathtub looked truly revolting the next morning when everything was drained away, but literally *all* the grime and grease came straight off the racks when rubbed with a cloth. Magic!
 
