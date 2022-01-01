@@ -11,14 +11,14 @@ tags:
 description: "The how and the why of my eco-friendly cleaning journey."
 ---
 
-I made some changes to the way I clean my flat a couple of months back: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s cleaner than before, I’ll save money over the long term and I’m being more eco friendly.
-
-There are four steps on this journey: buy products and ingredients, set a schedule, make the products, start cleaning! Much more (likely way too much) on each step below.
+I made some changes to the way I clean my flat a couple of months ago: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s as clean as before, I've reduced the environmental impact of my cleaning and I’ll save money over the long term.
 
 While some of the new products and techniques were more successful than others, overall I haven’t looked back from making the change. I would recommend anyone reading to consider doing the same in the new year. That’s why I wrote this post.
 
+There are four steps on this journey: buy products and ingredients, set a schedule, make the products, start cleaning! Much more (likely way too much) on each step below.
+
 ## Why I did it
-Three big things set me on my eco cleaning journey.
+A few things made me decide to go on this eco cleaning journey in the first place.
 
 First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that makes a bunch of different ‘traditional cleaning’ products.
 
