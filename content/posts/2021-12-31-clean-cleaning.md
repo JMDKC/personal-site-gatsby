@@ -13,14 +13,14 @@ description: "The how and the why of my eco-friendly cleaning journey."
 
 I made some changes to the way I clean my flat a couple of months back: scaling back on the number of products I use, mixing my own cleaners from bulk-bought ingredients, and buying most of the rest from an enlightened manufacturer I want to support. My flat’s cleaner than before, I’ll save money over the long term and I’m being more eco friendly.
 
-There were four steps on this journey: buy products and ingredients, set a schedule, make the products, start cleaning!
+There are four steps on this journey: buy products and ingredients, set a schedule, make the products, start cleaning! Much more (likely way too much) on each step below.
 
-While success varied from product to product, I haven’t looked back from making the change - and would recommend anyone reading to do the same in the new year. That’s why I wrote this post.
+While some of the new products and techniques were more successful than others, overall I haven’t looked back from making the change. I would recommend anyone reading to consider doing the same in the new year. That’s why I wrote this post.
 
 ## Why I did it
 Three big things set me on my eco cleaning journey.
 
-First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that offers a bunch of different ‘traditional cleaning’ products, that promise a more eco friendly way of getting household chores done.
+First, a tweet about soda crystals. Specifically, [this thread on Twitter](https://twitter.com/jonburkeUK/status/1079531591263768576) about Dri-Pak, a family owned British company that makes a bunch of different ‘traditional cleaning’ products.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ O.k, o.k, o.k...listen up! I&#39;m about to tell you why <a href="https://twitter.com/DriPak?ref_src=twsrc%5Etfw">@DriPak</a>, the little-known, family-run company based in Derbyshire, might just be the best business in the known universe... <a href="https://t.co/oBtjyminxR">pic.twitter.com/oBtjyminxR</a></p>&mdash; Jon Burke FRSA (@jonburkeUK) <a href="https://twitter.com/jonburkeUK/status/1079531591263768576?ref_src=twsrc%5Etfw">December 31, 2018</a></blockquote>
 
@@ -35,51 +35,51 @@ I tried this particular product, not expecting miracles, and noting the severe o
 
 Third - having felt conned, I took a newly-critical view on the place where the con artists hang out, Instagram! I’d been following various cleaning accounts on there, and was getting a bit turned off by the relentless shilling of new products, all accompanied with an affiliate link and a minuscule #adaff hashtag. Yes this is a slam of the [P&G sponsored Instagrammer Mrs Hinch and her ilk](https://www.thesun.co.uk/fabulous/15788979/move-over-mrs-hinch-cleanfluencers/)! These "cleanfluencers" get paid via affiliate links to cleaning products, which naturally means they're induced to promote ever more exotic potions and solutions, when actually going back to basics would do the job just as well, for far less environmental and financial impact.
 
-So when the excellent Michelle Ogundehin [posted about her own clean cleaning](https://www.instagram.com/michelleogundehin/?hl=en) journey on Instagram, I was a captive audience. Michelle - who's been blocked by Mrs Hinch after calling her out on shilling toxic products - also linked to the magnum opus book *[Clean and Green](https://www.amazon.co.uk/Clean-Green-Hints-Tips-Eco-Friendly/dp/1529049725)* by Nancy Birtwhistle as her main guide on her journey.
+So when the excellent Michelle Ogundehin [posted about her own clean cleaning](https://www.instagram.com/michelleogundehin/?hl=en) journey on Instagram, I was a captive audience. Michelle - who's been blocked by Mrs Hinch after calling her out on shilling toxic products - also mentioned the book *[Clean and Green](https://www.amazon.co.uk/Clean-Green-Hints-Tips-Eco-Friendly/dp/1529049725)* by Nancy Birtwhistle as a great source of information.
 
-I ordered and devoured this amazing book like a plump Belgian bun (Nancy won the Great British Bake Off a few years back, too). *Clean and Green*, which I'll be cribbing relentlessly from for the rest of this post, breaks down the what and the how of eco cleaning, room by room, and also contains recipes for mixing your own products.
+I ordered and devoured this amazing book like a plump Belgian bun (Nancy won the Great British Bake Off a few years back, too). *Clean and Green*, which I'll be cribbing relentlessly from for the rest of this post, breaks down the what and the how of eco cleaning and also contains recipes for mixing your own products.
 
-So, I’d done my research using Dri-Pak’s website, Michelle’s story highlights and, above all, Nancy’s book. I had a couple weeks off as I’d left my old job, before joining the new one. Time to draw up a plan of attack and took the plunge into eco cleaning.
+So, I’d done my research using Dri-Pak’s website, Michelle’s story highlights and, above all, Nancy’s book. I had a couple weeks off as I’d left my old job, before joining the new one. I had a cupboard full of specialist toxic cleaning products that I suspected I didn't need. Time to draw up a plan of attack and take the plunge into eco cleaning.
 
 ## Some caveats before I start
 Everything I write below comes with acknowledgement of the following facts, that I want you to know I’m conscious of:
-* I work sensible hours and make a decent wage, meaning that I had and have time to plan and execute a cleaning schedule, and the funds to spend the £80 or so I needed for the big up front shop.
-* I live alone in a 50 square metre flat in London. Which means I can be sure there’s nobody else around to move stuff, and there isn’t that much surface area to clean.
-* A lot of the information below will be ‘old news’ to any reader who’s cleaned for a while. But the information was enough of a revelation to me the braindead Hinch follower that I thought it worth sharing with others.
-* While my cleaning is more eco friendly than before, I’m far from eco perfect. I order Deliveroo a lot. My groceries come wrapped in plastic. I’ll travel on a plane the moment COVID restrictions are relaxed and I have somewhere to go.
-* Particularly relevant to the laundry section below: 80% of my clothes are cheap (very un eco friendly fast fashion) and are made of cotton. I'm a pretty cheap laundry date in other words, with no lacy, white or expensive clothes to worry about.
+* A lot of the information below will be old news to any reader who’s cleaned for a while. But the information was enough of a revelation to me the braindead Hinch follower that I thought it worth sharing with others.
+* I work sensible hours and make a decent wage, meaning that I had and have time to plan and execute a cleaning schedule, and the funds to spend what I needed to for the big up front shop.
+* I live alone in a small flat in London. Which means there isn’t that much surface area to clean, and only me to mess it up.
+* While my cleaning is more eco friendly than before, I’m far from eco perfect. I order Deliveroo a lot and a lot of my groceries come wrapped in plastic. None of this should be read as me preaching from a Greta Thunberg-approved pedestal. I improved some things, and need to improve more in future.
+* Particularly relevant to the laundry section below: 80% of my clothes are cheap (very un-eco friendly fast fashion), black or navy, and made of cotton. I'm a pretty cheap laundry date in other words, with no lacy, white or expensive clothes to worry about.
 
 ## Step 1 - buy stuff
-The first step for the switchover for me was to buy what I needed: the ingredients to make my own cleaning products, some standalone products (all Dri-Pak), and some bottles to store and mark the products in.
+The first step for the switchover for me was to buy what I needed: the ingredients to make my own cleaning products, some standalone products (all Dri-Pak), and some bottles to store the products in.
 
 The standalones can all be bought in most supermarkets. You can buy direct via Dri-Pak if you want, or there are cheaper and slightly bulkier non-branded versions of exactly the same products [on sale at Wilko](https://www.wilko.com/en-uk/wilko-original-soda-crystals-15kg/p/0437761). I went for convenience and ordered the lot as part of my weekly groceries shop, specifically:
 * Several bags of [soda crystals](https://www.dri-pak.co.uk/cleaning-products/soda-crystals/) (the king of all cleaning products, loads of uses, explained below)
 * 1 bottle [white vinegar](https://www.dri-pak.co.uk/cleaning-products/white-vinegar/) (loads more uses, you can bulk-buy a nicer-smelling alternative [on Amazon](https://www.amazon.co.uk/Jocker-Woods-Cleaning-Pickling-Marinations/dp/B084WZ47MP)) that’s also a major component of a lot of the self-mixed products
 * 2 packs [liquid soap](https://www.dri-pak.co.uk/laundry-products/liquid-soap/) (laundry)
 * 1 bottle [liquid soda crystals](https://www.dri-pak.co.uk/cleaning-products/liquid-soda-crystals/) (oven)
-* 2 packs [citric acid](https://www.dri-pak.co.uk/cleaning-products/citric-acid/) (general descaling, toilet)
+* 2 packs [citric acid](https://www.dri-pak.co.uk/cleaning-products/citric-acid/) (general descaling, toilet).
 
 My big Amazon shop for ingredients and storage was as follows:
 
 ![My cleaning haul from Amazon](/media/clean-cleaning-2.jpg)
-*Some of the haul. I bought wire wool and toothbrushes too - but didn’t include it in the list.*
+*Some of the haul.*
 
 * [Measuring scoops](https://www.amazon.co.uk/gp/product/B0071QMYZA/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1), mainly for doling out the soda crystals and getting accurate measures for making the products, but I’ll use them in the kitchen longer term too.
-* [Glass bottles](https://www.amazon.co.uk/gp/product/B07GD5RDK3/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) for the self-mixed products - I ordered six in total, in brown glass to protect the contents from the sun.
+* [Glass bottles](https://www.amazon.co.uk/gp/product/B07GD5RDK3/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) for the self-mixed products - I ordered six in total, on Nancy's advice, in brown glass to protect the contents from the sun.
 * [Plastic funnel](https://www.amazon.co.uk/gp/product/B08TVXJTY9/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1) for getting the ingredients into the bottle without spilling!
-* [Eco-friendly washing up liquid](https://www.amazon.co.uk/gp/product/B07C3ZNCR1/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1) - not as effective as the toxic alternative, but does the job acceptably. I bought online as I had a bulk option.
+* [Eco-friendly washing up liquid](https://www.amazon.co.uk/gp/product/B07C3ZNCR1/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1) - not as effective as the toxic alternative, but does the job acceptably. I bought a five litre refill later so I didn't keep buying plastic bottles.
 * [White oil paint marker](https://www.amazon.co.uk/gp/product/B00M0PDM6W/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1) - definitely an optional extra, but I wanted to be able to label the bottles without needing to use any applied label that could flake off or get water damaged
-* [Big tub of sodium bicarbonate](https://www.amazon.co.uk/gp/product/B079VP1WTK/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) - can be used in cooking too
-* [Surgical spirit](https://www.amazon.co.uk/gp/product/B08B69ZY3D/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - could also be useful for those still deluding themselves that COVID isn’t an airborne disease, but either way it’s used in all-purpose cleaner
+* [Big tub of sodium bicarbonate](https://www.amazon.co.uk/gp/product/B079VP1WTK/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1) - can be used in cooking too.
+* [Surgical spirit](https://www.amazon.co.uk/gp/product/B08B69ZY3D/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) - could also be useful as a disinfectant for those still deluding themselves that COVID isn’t an airborne disease, but either way it’s used in all-purpose cleaner.
 * [Xanthan gum](https://www.amazon.co.uk/gp/product/B08WKF938Y/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1) - used for some of Nancy’s more esoteric potions, mainly around specialist stain removal. I haven’t used it yet.
 * [Vegetable glycerine](https://www.amazon.co.uk/gp/product/B019NQOO6M/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1) - used in dishwasher rinse aid.
-* [Essential oil](https://www.amazon.co.uk/gp/product/B00QQOERJE/ref=ppx_yo_dt_b_asin_title_o08_s04?ie=UTF8&psc=1) that smells nice - I chose lavender. The purpose of this ingredient is solely to make the products smell nice when applied rather than due to any inherent cleaning properties, and because if you use vinegar it tends to have a chip shop tang.
+* [Essential oil](https://www.amazon.co.uk/gp/product/B00QQOERJE/ref=ppx_yo_dt_b_asin_title_o08_s04?ie=UTF8&psc=1) any flavour - I chose lavender. The purpose of this ingredient is solely to make the self-mixed products smell nice when applied rather than due to any inherent cleaning properties. Many of them use vinegar, which has a definite whiff of the chip shop.
 * [Sodium percarbonate](https://www.amazon.co.uk/gp/product/B07RCZMMQ7/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) - aka ‘green bleach’, an alternative to chlorine bleach which is pretty much one of the most toxic substances known to man! Warning: this could be labelled as a bunch of different things (mine was called “home brew beer wine cleaner sanitiser”) so you need to make sure the active ingredient is correct.
 
 ![A pack of sodium percarbonate](/media/clean-cleaning-3.jpg)
 *My sodium percarbonate came vacuum-packed, from ‘biggerjugs.co.uk’*
 
-I spent just over £100 all in, mainly on the Amazon shop, and including the cost of Nancy’s book. You should buy it too, in case I haven't made that point clearly enough.
+I spent just over £100 all in, mainly on the Amazon shop, and including the cost of Nancy’s book.
 
 ## Step 2 - organise a schedule
 I’m an avid user of to-do apps, with [Todoist](https://todoist.com/) still my tool of choice. Using recurring tasks in their own *Cleaning* category has helped me stick to a realistic schedule, and it’s especially handy for splitting out weekly tasks - for example, cleaning bathroom surfaces - from less frequent tasks like descaling the kettle.
@@ -94,7 +94,7 @@ That said, if you’re not the kind of person that gets motivated to do stuff by
 A couple of months down the line, I’ve also got a rough idea of how long each of the cleaning products I *make* will last me, meaning I can add in recurring tasks to mix up another batch of each at appropriate intervals. Speaking of which…
 
 ## Step 3 - make stuff
-Following my big Amazon shop, I had six brown glass bottles to work with, and six recipes from Nancy’s book that I felt I’d use the most. I blocked out an afternoon to mix everything up, which was way too generous, as I was actually done in an hour or so.
+Following my big Amazon shop, I had six brown glass bottles to work with, and six recipes from Nancy’s book for products that I felt I’d use the most. I blocked out an afternoon to mix everything up, which was way too generous, as I was actually done in an hour or so.
 
 ![Ingredients for my self-mixed cleaning products](/media/clean-cleaning-5.jpg)
 *Prepping for mixing some products!*
@@ -120,7 +120,10 @@ The one change that has been the most dramatically successful, and the thing in 
 
 Previously, I used an Ariel washing tab and a glug of supermarket own brand fabric conditioner on my weekly laundry load. As everything was generally made of cotton, I washed on my machine’s pre-programmed 60 celsius ‘cotton’ wash, and then used the built in dryer for another couple of hours. My washing was generally stiff, brittle and had a distinct whiff of chemicals.
 
-On Nancy and Michelle’s advice, my laundry is now odourless and soft. Each wash is massively cheaper and better for the environment. I go full Dri-Pak, using a single largish scoop of soda crystals (in the left hand compartment of the drawer) and a capful of liquid soap (in the drum). That’s it! The soda crystals soften the water - essential as I live in a hard water area - and the soap cleans the clothes.
+![Ingredients for my self-mixed cleaning products](/media/clean-cleaning-12.jpeg)
+*All you need for laundry*
+
+My laundry is now odourless and soft. Each wash is cheaper for me and better for the environment in general. I go full Dri-Pak, using a single largish scoop of soda crystals (in the left hand compartment of the drawer) and a capful of liquid soap (in the drum). That’s it! The soda crystals soften the water - essential as I live in a hard water area - and the soap cleans the clothes.
 
 I wash on 20 celsius: 90% of the energy used by a washing machine goes on heating the water. Eschewing the tumble drier, I clean on the rack.
 
@@ -142,13 +145,13 @@ To make it, mix:
 
 This fills around half my bottle, and it needs a refill about every month.
 
-I use this everywhere - on my (painted) walls, on bathroom surfaces, to give my skirting boards a wipe. I keep it in my kitchen caddy though, as I use it most often on wiping my work surfaces and cupboards down.
+I use this everywhere - on my (painted) walls, on bathroom surfaces, on skirting boards and light switches. I keep it in my kitchen caddy though, as I use it most often to wipe down my work surfaces and cupboards.
 
-It’s much less successful on stainless steel and glass, as it tends to smudge - so I use dish soap and warm water on those only.
+The product is much less successful on stainless steel and glass, as it tends to smudge - so I use dish soap and warm water on those only.
 
 ### Floor cleaner
 
-I’m an obsessive hooverer (I get my small wireless upright out and give my floor a quick blast between meetings at work sometimes as a de-stresser) but my wooden floors often looked worse for wear, especially around the kitchen counters and my desk, where I spent most of the time.
+I’ve become an obsessive hooverer (I get my small wireless upright out and give my floor a quick blast between meetings at work sometimes as a de-stresser) but my wooden floors still often looked worse for wear, especially around the kitchen counters and my desk.
 
 I’d bought a couple of specialist wooden floor cleaners that had lovely packaging but weren’t very effective: I was never sure how much I should be using, and how damp the mop I was using to spread it on the floor should be.
 
@@ -187,14 +190,14 @@ Following Nancy’s advice, I keep a sugar shaker of bicarb by the sink, and sha
 
 ![My products for sink cleaning](/media/clean-cleaning-8.jpeg)
 
-Once a week, I deep clean it with a sponge dug into [Bio-mex](https://www.amazon.co.uk/Bio-mex-Miracle-Cleaning-Kitchen-Bathroom/dp/B00FFYQRR6), which I bought based on Instagram back in the day, but still use as it has eco ingredients. I’ll try using my all purpose cleaner instead when it runs out, as I highly doubt it has any unique magic cleaning properties.
+Once a week, I deep clean it with a sponge dug into [Bio-mex](https://www.amazon.co.uk/Bio-mex-Miracle-Cleaning-Kitchen-Bathroom/dp/B00FFYQRR6), which I bought thanks to some Instagram cleanfluencer back in the day, but still use as it has eco ingredients. I’ll try using my all purpose cleaner instead when the Bio-mex runs out.
 
-Finally, I clean the plugholes with a generous scoop of soda crystals, chased down with the contents of a boiling kettle. This is probably the [most-cited use of soda crystals](https://www.dri-pak.co.uk/cleaning-plug-holes-and-drains/), and supposedly keeps the sink draining effectively over the long term. I haven’t seen any evidence to the contrary…
+Finally, I clean the plugholes with a generous scoop of soda crystals, chased down with the contents of a boiling kettle. This is probably the [most-cited use of soda crystals](https://www.dri-pak.co.uk/cleaning-plug-holes-and-drains/), and supposedly helps the sink drain effectively over the long term. I haven’t seen any evidence to the contrary…
 
 ### Descaling
-While I’m pretty much on easy street for cleaning stuff in most respects - living in a small place with no other people to mess stuff up - limescale is huge problem for me. East London’s diamond-hard water was a shock to me when I first moved here, and one of my first emergency buys was a water filter, given that tap water is basically undrinkable.
+While I’m pretty much on easy street for cleaning stuff in most respects - living in a small place with no other people to mess stuff up - limescale is huge problem for me. East London’s extra-hard water was a shock to me when I first moved here, and one of my first emergency buys was a water filter, given that tap water here is basically undrinkable.
 
-Left alone, a gross crust quickly forms wherever water hits: around taps, on shower screens, in the tub. I’ve used two products quite successfully to deal with this. First, I generally have a bag of lemons in my weekly shop - and tie used halves to taps with a microfibre cloth for a few hours every couple of weeks or so.
+Left alone, a gross surface crust quickly forms wherever water hits: around taps, on shower screens, in the tub. I’ve used two products quite successfully to deal with this. First, I generally have a bag of lemons in my weekly shop - and tie used halves to taps with a microfibre cloth for a few hours every couple of weeks or so.
 
 ![Using a lemon to descale a tap](/media/clean-cleaning-9.jpg)
 
@@ -237,11 +240,11 @@ I’ve had a pack of Oven Mate in my flat for months now. The product's intended
 
 (Did you know that Oven Mate’s *[own safety information](https://www.dunelm.com/infodocs/msds/30069442-Oven-Mate-OVEN-CLEANING-GEL-5039295101005.pdf)* states that you should "drench the affected skin with running water for 10 minutes or longer" if any of the product comes into contact with you *and* recommends the use of “tightly fitting safety goggles" during use?)
 
-As a more eco and less scary alternative, I used Dri-Pak’s Liquid Soda Crystals a few times; fuller instructions are [here](https://www.dri-pak.co.uk/dreaded-task-oven-cleaning/). The process basically involved rubbing a significant part of a bottle into every nook and cranny of the oven, leaving for a couple of hours, then sponging it all out with water. I was pretty happy with the result, though I can’t pretend that it left the oven perfectly sparkling clean. A lot of caked-on grime around the metal sections on the top and the lightbulb didn’t shift. Then again, I didn’t need to put on a full hazmat suit to apply it, just a pair of rubber gloves!
+As a more eco and less scary alternative, I used Dri-Pak’s Liquid Soda Crystals a few times; fuller instructions are [here](https://www.dri-pak.co.uk/dreaded-task-oven-cleaning/). The process basically involved rubbing a significant part of a bottle into every nook and cranny of the oven, leaving for a couple of hours, then sponging it all out with water. I was pretty happy with the result, though I can’t pretend that it left the oven perfectly sparkling clean. There's still a lot of caked-on grime around the metal sections on the top and the lightbulb. Then again, I didn’t need to put on a full hazmat suit to apply the cleaning product, just a pair of rubber gloves!
 
 I had total success with cleaning my racks and baking trays though. Following a tip from Michelle’s Instagram, I ran a warm bath, dumped in several scoops of soda crystals, and left everything in overnight. My bathtub looked truly revolting the next morning when everything was drained away, but literally *all* the grime and grease came straight off the racks when rubbed with a cloth. Magic!
 
-Happily, I’ve chucked the Oven Mate out, and put cleaning the oven out as a monthly task. Hopefully, more of the grime will shift each time.
+Happily, I’ve chucked the Oven Mate out, and entered cleaning the oven out as a monthly task on Todoist. Hopefully, more of the grime will shift each time.
 
 ## Some conclusions
 So that’s where I’m at so far. I’ve changed the way I do laundry. I use my own products, in their smart brown bottles, to clean surfaces from countertops to toilet. I follow Mrs Hinch for the lolz, purely - though she doesn’t seem like a bad person, just a bit of a grifter!
