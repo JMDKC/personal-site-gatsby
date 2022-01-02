@@ -4,11 +4,11 @@ template: "page"
 slug: "/about"
 ---
 
-![joseph clift headshot](/media/headshot.jpg)
+![joseph clift headshot](/media/joseph-clift-headshot-2021.jpeg)
 
 I'm a [certified Scrum Master](/media/josephclift_PSMI_certificate.pdf), currently working in digital delivery at [Which?](https://which.co.uk), the UK's consumer champion.
 
-Previously, I worked at [Ascential](https://www.ascential.com/), a FTSE 250-listed information services company.
+Previously, I worked at [Ascential](https://www.ascential.com/), a FTSE 250-listed media company.
 
 With live events hammered by the global pandemic, I helped guide the [Cannes Lions festival](https://canneslions.com), aka the Oscars of advertising, to its most successful ever digital activation. Before that, I led development on the WARC 100, [now WARC Rankings](https://www.warc.com/rankings), one of the industry’s most widely-known ranking and benchmarking products.
 
