@@ -26,7 +26,7 @@ First, a tweet about soda crystals. Specifically, [this thread on Twitter](https
 
 This led me to Dri-Pak’s (delightful) website, which is [loaded with how-tos](https://www.dri-pak.co.uk/about/).
 
-Second, a stainless steel cleaner. This was the cleaning potion that broke the camel’s back, if I’m allowed to mix metaphors. I’d bought it at a Lakeside outlet near me over the summer, tempted as ever by the cool bottle. I’d been living in my own place for a year or so, and, being an obsessive neat freak, had accumulated an arsenal of brightly-coloured, highly specialised and quite expensive cleaning bottles and potions.
+Second, a stainless steel cleaner. This was the cleaning potion that broke the camel’s back, if I’m allowed to mix metaphors. I’d bought it at a Lakeland outlet near me over the summer, tempted as ever by the cool bottle. I’d been living in my own place for a year or so, and, being an obsessive neat freak, had accumulated an arsenal of brightly-coloured, highly specialised and quite expensive cleaning bottles and potions.
 
 I tried this particular product, not expecting miracles, and noting the severe overlap in utility with Viakal, my previous ‘go to’ for cleaning metal shiny bits. The effect was pretty disappointing. I slotted it in place in my cleaning cupboard, and wondered if some kind of obscure con had been perpetrated on me, that I felt I *had* to spend a fiver on yet another specialist-use potion that didn’t do anything that… special?
 
