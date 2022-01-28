@@ -125,7 +125,7 @@ Previously, I used an Ariel washing tab and a glug of supermarket own brand fabr
 
 My laundry is now odourless and soft. Each wash is cheaper for me and better for the environment in general. I go full Dri-Pak, using a single largish scoop of soda crystals (in the left hand compartment of the drawer) and a capful of liquid soap (in the drum). That’s it! The soda crystals soften the water - essential as I live in a hard water area - and the soap cleans the clothes.
 
-I wash on 20 celsius: 90% of the energy used by a washing machine goes on heating the water. Eschewing the tumble drier, I clean on the rack.
+I wash on 20 celsius: 90% of the energy used by a washing machine goes on heating the water. Ignoring the tumble dryer, I clean on the rack.
 
 I will never, never buy a washing tab or bottle of fabric conditioner again.
 
