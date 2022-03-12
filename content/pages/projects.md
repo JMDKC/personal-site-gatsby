@@ -10,7 +10,7 @@ slug: "/projects"
 
 Part of the important work done by [Which?](https://which.co.uk), as the UK's consumer champion, is to empower people to take power into their own hands and assert their rights. One large and little-understood issue is faulty goods: an area in which the buyer has a host of legal rights and protections, but there is little public understanding of these.
 
-Which? offers a free-to-access [faulty goods tool](https://www.which.co.uk/tool/faulty-goods), in which the users wanting to reclaim for a faulty product they've recently bought enter their details, and get a variety of advice, support and a proforma letter to send to their seller. 
+Which? offers a free-to-access [faulty goods tool](https://www.which.co.uk/tool/faulty-goods), in which the users wanting to reclaim for a faulty product they've recently bought enter their details, and get a variety of advice, support and a proforma letter to send to their seller.
 
 Working in the cross-functional squad that looks after this tool for Which?, we overhauled the faulty goods tool's look and feel, as well as migrating the backend to a new modular framework that will make development of other similar tools in future much easier.
 
@@ -66,7 +66,7 @@ I wrote a bit more about my obsessive visual art hobby [in this post](https://jo
 
 This was the first digital product I built from the ground up, from initial idea to final release.
 
-At it’s heart, it’s an annual ranking of the world’s best marketing campaigns and companies. Results are based on who won in strategy and effectiveness awards over the previous calendar year: which is handy, as WARC is the world’s biggest publisher of marketing strategy and effectiveness case study.
+At it’s heart, it’s an annual ranking of the world’s best marketing campaigns and companies. Results are based on who won in strategy and effectiveness awards over the previous calendar year: which is handy, as WARC is the world’s biggest publisher of marketing strategy and effectiveness case studies.
 
 This meant that we could design and build a solid ranking algorithm that took into account a range of regional weightings, and allowed us to rank each awards win ‘by reputation’. (The full methodology’s here.)
 
