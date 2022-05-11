@@ -9,6 +9,7 @@ tags:
   - "Product Management"
   - "Strategy"
   - "Business"
+  - "Productivity"
 description: "Agile documentation needs to do the minimum viable job. Docs shouldn’t be comprehensive, but they should still exist. Here's an example."
 ---
 
