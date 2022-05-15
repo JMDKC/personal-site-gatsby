@@ -15,17 +15,17 @@ description: "An A-Z of Agile frameworks, concepts and buzzwords."
 
 **Acceptance Criteria:** Conditions that must be met for value to be delivered in an Agile project. Generally these are attached to a *User Story*, and contain the specific terms for that particular story to meet the team’s *Definition of Done*. Often but not always written in the format “Given ___ when ____ then”.
 
-**Active listening:**Part of being a good *Servant leader* for the Agile project manager. An active listener doesn’t just hear the words of the person speaking to them, but focuses on these words and the meaning behind them. Equally important is that an active listener does *not* think about their response at this point: the focus should be on the person they’re listening to.
+**Active listening:** Part of being a good *Servant leader* for the Agile project manager. An active listener doesn’t just hear the words of the person speaking to them, but focuses on these words and the meaning behind them. Equally important is that an active listener does *not* think about their response at this point: the focus should be on the person they’re listening to.
 
-**Adaptive leadership:**This is a constant theme through Agile methodologies and frameworks and especially applies to the project manager or *Scrum Master*. It’s about adapting tools and techniques to your team and your environment. About modelling best practices and behaviours by doing them yourself - and leading by example. Pivoting quickly and rolling with the punches. Reflecting the *Agile Manifesto*’s prioritising of ‘responding to change’ over ‘following a plan’.
+**Adaptive leadership:** This is a constant theme through Agile methodologies and frameworks and especially applies to the project manager or *Scrum Master*. It’s about adapting tools and techniques to your team and your environment. About modelling best practices and behaviours by doing them yourself - and leading by example. Pivoting quickly and rolling with the punches. Reflecting the *Agile Manifesto*’s prioritising of ‘responding to change’ over ‘following a plan’.
 
-**Adaptive Software Development:**Or, ASD. An agile framework popularised in a 2000 book by Jim Highsmith. This framework replaces the traditional *Waterfall* process with one based on the *Shewhart cycle* of plan-do-check-act. This framework especially encourages rapid changes based on testing and learning.
+**Adaptive Software Development:** Or, ASD. An agile framework popularised in a 2000 book by Jim Highsmith. This framework replaces the traditional *Waterfall* process with one based on the *Shewhart cycle* of plan-do-check-act. This framework especially encourages rapid changes based on testing and learning.
 
-**Adkins guidelines:**A set of guidelines for one-on-one coaching in an Agile environment. These are: stay half a step ahead, guarantee safety, partner with managers and create positive regard. Coaching at a team level is also encouraged during *Retrospectives.*
+**Adkins guidelines:** A set of guidelines for one-on-one coaching in an Agile environment. These are: stay half a step ahead, guarantee safety, partner with managers and create positive regard. Coaching at a team level is also encouraged during *Retrospectives.*
 
 **Affinity estimating:** A technique for estimating User Stories, which involves a team grouping stories into categories according to the size of the story, then holding discussion for everything that doesn’t seem to fit in a category.
 
-**Agile Manifesto:**Written by a team of software developers at a conference in 2001, and the basis of the whole movement. It has its roots in a shared frustration about heavyweight project management frameworks. It contains four statements, in which one thing is prioritised over another:
+**Agile Manifesto:** Written by a team of software developers at a conference in 2001, and the basis of the whole movement. It has its roots in a shared frustration about heavyweight project management frameworks. It contains four statements, in which one thing is prioritised over another:
 * Individuals and interactions (over) Processes and tools
 
 * Working software (over) Comprehensive documentation
@@ -63,7 +63,7 @@ description: "An A-Z of Agile frameworks, concepts and buzzwords."
 
 **Architectural spike:** An *XP* concept that is now used by many Agile teams more generally. It can be a task within an iteration/sprint, or a short iteration between more typical iterations/sprints, involving the whole team. It involves an investigation into whether a proof of concept or technical implementation will actually work. The purpose of an architectural spike is to reduce the risk of technical problems occurring later in the project.
 
-**ASD Cycle:**The process by which projects are developed and delivered in ASD, an Agile framework. The cycle is: mission focused, feature based, iterative, time-boxed, risk driven, and change tolerant.
+**ASD Cycle:** The process by which projects are developed and delivered in ASD, an Agile framework. The cycle is: mission focused, feature based, iterative, time-boxed, risk driven, and change tolerant.
 
 **Backlog:** A list of *User Stories*, tasks and other work to be performed by the team. A team’s backlog doesn’t capture all the work required to deliver a product or initiative, it’s an ever-changing document. The *Product Owner* has overall responsibility for refining, prioritising and ordering the backlog (otherwise known as *Backlog grooming*), such that it delivers maximum value.
 
