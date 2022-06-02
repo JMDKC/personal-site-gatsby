@@ -39,7 +39,7 @@ WARC is the world’s largest advertising information service, with a specialist
 **JUNE 2007- DECEMBER 2009**
 * Working for a news agency, I wrote news and features for clients including JPMorgan, Dresdner Kleinwort and the London Stock Exchange.
 
-### Certifications and Education
+### CERTIFICATIONS & EDUCATION
 #### Agile  
 * [PMI-ACP certified](https://josephclift.com/media/josephclift_PMI-ACP_certificate.pdf)  Agile project manager (2022).
 * [PSM1 certified ](https://josephclift.com/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
@@ -48,7 +48,7 @@ WARC is the world’s largest advertising information service, with a specialist
 #### Academic
 BA, MA English Literature, University of Bristol (2001-06)
 
-### Skills
+### SKILLS
 Advanced unless stated otherwise:
 #### Workshops & Facilitation
 * Miro
@@ -69,7 +69,7 @@ Advanced unless stated otherwise:
 * Tableau
 * Basic SQL
 
-### Interests
+### INTERESTS
 * [Blogger](http://josephclift.com/)  
 * Art  [hobbyist](https://artangled.com/). 
 * Avid bibliophile and traveller.
