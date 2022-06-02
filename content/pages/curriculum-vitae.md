@@ -5,7 +5,6 @@ slug: "/curriculum-vitae"
 ---
 
 [View a PDF version here](https://josephclift.com/media/josephclift_cv_onepage_2022.pdf)
-
 ### EXPERIENCE
 #### Which?, London — Delivery Lead
 **OCTOBER 2021-**
