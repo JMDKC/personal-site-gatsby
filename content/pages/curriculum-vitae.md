@@ -30,18 +30,17 @@ WARC is the world’s largest advertising information service, with a specialist
 
 #### WARC, London - Web Producer
 **JANUARY 2010 - MARCH 2014**
-* I worked on WARC’s suite of adspend and media costs data products. 
+I worked on the editorial team, focussing on WARC’s suite of adspend and media costs data products. 
 * I developed and launched the [WARC 100](https://www.warc.com/warc100), a global rankings of the world’s best advertising campaigns and companies.
 * I led a team of freelancers to produce WARC Plus, an on-demand research service. 
 * I also reported from industry events including Advertising Week, ad:tech and the Cannes Lions.
 
 #### Adfero, London - Financial Correspondent
-**JUNE 2007- DECEMBER 2009**
-* Working for a news agency, I wrote news and features for clients including JPMorgan, Dresdner Kleinwort and the London Stock Exchange.
+**JUNE 2007- DECEMBER 2009** Working for a news agency, I wrote news and features for clients including JPMorgan, Dresdner Kleinwort and the London Stock Exchange.
 
 ### CERTIFICATIONS & EDUCATION
 #### Agile  
-* [PMI-ACP certified](https://josephclift.com/media/josephclift_PMI-ACP_certificate.pdf)  Agile project manager (2022).
+* [PMI-ACP certified](https://josephclift.com/media/josephclift_PMI-ACP_certificate.pdf)  Agile project manager (2022)
 * [PSM1 certified ](https://josephclift.com/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
 * [Product Management certification](/media/josephclift_GA_certificate.pdf), General Assembly (2014)
 
@@ -71,5 +70,5 @@ Advanced unless stated otherwise:
 
 ### INTERESTS
 * [Blogger](http://josephclift.com/)  
-* Art [hobbyist](https://artangled.com/). 
-* Avid bibliophile and traveller.
+* Art [hobbyist](https://artangled.com/)
+* Avid bibliophile and traveller
