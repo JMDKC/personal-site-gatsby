@@ -28,14 +28,14 @@ WARC is the world’s largest advertising information service, with a specialist
 * Projects include the launch of the [WARC Rankings](https://josephclift.com/projects), now one of the industry’s most respected benchmarking products.
 * I helped the business measure the new features’ success. To optimise performance, I designed and ran A/B and multivariate tests.
 
-#### WARC, London - Web Producer
+#### WARC, London — Web Producer
 **JANUARY 2010 - MARCH 2014**
 I worked on the editorial team, focussing on WARC’s suite of adspend and media costs data products. 
 * I developed and launched the [WARC 100](https://www.warc.com/warc100), a global rankings of the world’s best advertising campaigns and companies.
 * I led a team of freelancers to produce WARC Plus, an on-demand research service. 
 * I also reported from industry events including Advertising Week, ad:tech and the Cannes Lions.
 
-#### Adfero, London - Financial Correspondent
+#### Adfero, London — Financial Correspondent
 **JUNE 2007- DECEMBER 2009** Working for a news agency, I wrote news and features for clients including JPMorgan, Dresdner Kleinwort and the London Stock Exchange.
 
 ### CERTIFICATIONS & EDUCATION
