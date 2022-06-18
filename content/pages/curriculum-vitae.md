@@ -17,7 +17,7 @@ Which? is the UK’s consumer champion. Working in a product team based on the S
 #### Ascential, London — Delivery Manager
 **JUNE 2018 - OCTOBER 2021**
 Ascential is a FTSE 250-listed media company. I worked with the advertising unit, building and shipping digital tools with two Scrum teams:
-* As Scrum Master, I helped the development team to deliver on time, and the Product Owner plan, prioritise and translate needs into user stories. 
+* As Scrum Master, I helped two development teams deliver on time, and the Product Owner plan, prioritise and translate needs into user stories. 
 * Maintaining team Wikis and reporting team performance against KPIs.
 * Successful projects include [Lions Live](https://josephclift.com/projects), an all-online activation of the ‘Oscars of Advertising’, covering 45,000 entries and a 500% uplift in users.
 
@@ -31,7 +31,6 @@ WARC is the world’s largest advertising information service, with a specialist
 #### WARC, London — Web Producer
 **JANUARY 2010 - MARCH 2014**
 I worked on the editorial team, focussing on WARC’s suite of adspend and media costs data products. 
-* I developed and launched the [WARC 100](https://www.warc.com/warc100), a global rankings of the world’s best advertising campaigns and companies.
 * I led a team of freelancers to produce WARC Plus, an on-demand research service. 
 * I also reported from industry events including Advertising Week, ad:tech and the Cannes Lions.
 
@@ -57,7 +56,7 @@ Advanced unless stated otherwise:
 * Jira
 * Confluence
 
-#### Web Development
+#### Web development
 * Intermediate HTML
 * Intermediate CSS
 * Basic JS (React)
