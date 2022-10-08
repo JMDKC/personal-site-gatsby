@@ -39,7 +39,8 @@ I worked on the editorial team, focussing on WARC’s suite of adspend and media
 
 ### CERTIFICATIONS & EDUCATION
 #### Agile  
-* [PMI-ACP certified](https://josephclift.com/media/josephclift_PMI-ACP_certificate.pdf)  Agile project manager (2022)
+* [PMI-ACP certified](https://josephclift.com/media/josephclift_PMI-ACP_certificate.pdf) Agile project manager (2022)
+* [PK1 certified](https://josephclift.com/media/josephclift_PK1_certificate.pdf) Kanban trainer (2022)
 * [PSM1 certified ](https://josephclift.com/media/josephclift_PSMI_certificate.pdf) Scrum Master (2020)
 * [Product Management certification](/media/josephclift_GA_certificate.pdf), General Assembly (2014)
 
@@ -48,7 +49,7 @@ BA, MA English Literature, University of Bristol (2001-06)
 
 ### SKILLS
 Advanced unless stated otherwise:
-#### Workshops & Facilitation
+#### Facilitation
 * Miro
 * FigJam
 
@@ -69,5 +70,5 @@ Advanced unless stated otherwise:
 
 ### INTERESTS
 * [Blogger](http://josephclift.com/)  
-* Art [hobbyist](https://artangled.com/)
+* Art [angler](https://artangled.com/)
 * Avid bibliophile and traveller
