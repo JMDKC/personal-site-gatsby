@@ -67,7 +67,7 @@ description: "An A-Z of Agile frameworks, concepts and buzzwords."
 
 **Backlog:** A list of *User Stories*, tasks and other work to be performed by the team. A team’s backlog doesn’t capture all the work required to deliver a product or initiative, it’s an ever-changing document. The *Product Owner* has overall responsibility for refining, prioritising and ordering the backlog (otherwise known as *Backlog grooming*), such that it delivers maximum value.
 
-**Backlog grooming:** Backlog grooming includes estimating, analysing, prioritising and breaking down *User Stories*in a team’s *Backlog*. Some of these tasks can be done in a formal meeting with the team - the *Backlog refinement meeting.* The *Product Owner* is the one who ensures that, as the backlog is refined, the releases will add value for the user.Visualize the backlog as a funnel, as the stories get closer to being executed during a sprint, they move to the top of the funnel, and become more concrete.
+**Backlog grooming:** Backlog grooming includes estimating, analysing, prioritising and breaking down *User Stories* in a team’s *Backlog*. Some of these tasks can be done in a formal meeting with the team - the *Backlog refinement meeting.* The *Product Owner* is the one who ensures that, as the backlog is refined, the releases will add value for the user. Visualize the backlog as a funnel, as the stories get closer to being executed during a sprint, they move to the top of the funnel, and become more concrete.
 
 **Backlog refinement meeting:** A meeting in which some or all members of an Agile team meet to refine the *Backlog.*Activities could include: 
 * *Product Owner* prioritises the backlog or gives their reasons for this prioritisation
