@@ -4,11 +4,15 @@ template: "page"
 slug: "/curriculum-vitae"
 ---
 
-[View a PDF version here](https://josephclift.com/media/josephclift_cv_onepage_2022.pdf)
+[View a PDF version here](https://josephclift.com/media/josephclift_cv_onepage_2023.pdf)
 ### EXPERIENCE
-#### Which?, London — Delivery Lead
-**OCTOBER 2021-**
+#### Which?, London — Lead Delivery Manager
+**FEBRUARY 2023-**
 Which? is the UK’s consumer champion. Working in a product team based on the Spotify scaled Agile framework, my responsibilities include:
+* All of the below, plus assisting the organisation in programme management and line managing our growing team of DMs.
+
+#### Which?, London — Delivery Manager
+**OCTOBER 2021 - FEBRUARY 2023**
 * Working with three squads (2 Scrum, 1 Kanban, approx 40 team members) on Agile ways of working, removing impediments, supporting and leading Scrum ceremonies and meetings where appropriate.
 * Facilitating workshops, developing learning resources and coaching teams across the organisation  on Agile tools and techniques.
 * Overhauling documentation and metrics reporting. As Jira admin, maintaining and enforcing company-wide standards in issue tracking.
